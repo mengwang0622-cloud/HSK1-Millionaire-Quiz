@@ -4,7 +4,7 @@ Polskojęzyczny quiz chińskiego: 15 pytań, trzy koła ratunkowe i wirtualny mi
 
 ## Uruchomienie
 
-Wymagania: Python 3 (serwer lokalny) i Node.js 18+ (testy i budowanie). Nie trzeba uruchamiać `npm install`.
+Wymagania: Python 3 (serwer lokalny) i Node.js 24 (testy i budowanie). Nie trzeba uruchamiać `npm install`.
 
 ```sh
 npm start
@@ -66,7 +66,7 @@ Patrz `QA.md` po szczegóły sprawdzonych scenariuszy i ograniczenia.
 
 1. Wyślij kod do repozytorium `mengwang0622-cloud/HSK1-Millionaire-Quiz`.
 2. W panelu Vercel wybierz **Add New → Project** i zaimportuj to repozytorium.
-3. Framework: **Other**. Build: `npm run build`. Output: `dist`. Install command można pozostawić pusty — brak zależności.
+3. Framework: **Other**. Build: `npm run build`. Output: `dist`. Install command: `npm ci` (plik blokady jest dołączony; brak zależności produkcyjnych).
 4. Nie dodawaj zmiennych środowiskowych ani kluczy API. Kliknij **Deploy**.
 5. Sprawdź wygenerowany publiczny adres HTTPS: rozpoczęcie gry, wszystkie pomoce, pełną rundę oraz widok mobilny.
 
@@ -75,3 +75,21 @@ Patrz `QA.md` po szczegóły sprawdzonych scenariuszy i ograniczenia.
 ## Pliki
 
 `index.html` — dostępna struktura interfejsu; `style.css` — responsywny wygląd; `app.js` — interakcje, zegar i dźwięk; `game.js` — czysta logika losowania, punktacji i podpowiedzi. Aplikacja respektuje ustawienie ograniczania animacji i obsługuje klawiaturę przez natywne przyciski.
+
+## Błąd Vercel: `vite: command not found`
+
+To **nie jest projekt Vite**. Nie ustawiaj polecenia `vite build` i nie instaluj Vite tylko po to, by obejść błędne ustawienia hostingu.
+
+W Vercel → Project → Settings → Build and Deployment ustaw:
+
+- Production Branch: `main` (Settings → Git).
+- Root Directory: katalog główny repozytorium, bez podkatalogu.
+- Framework Preset: **Other**.
+- Install Command: `npm ci`.
+- Build Command: `npm run build`.
+- Output Directory: `dist`.
+- Node.js Version: **24.x**.
+
+`vercel.json` zapisuje te polecenia i wyłącza automatyczny wybór frameworka. Jeśli w panelu istnieje stare nadpisanie `vite build`, usuń je albo zastąp `npm run build`. Uruchom nowy deployment z aktualnego `main`; redeploy starego commita zawierającego tylko README nie pobierze nowego kodu. W razie zachowania starej konfiguracji wyłącz użycie istniejącego Build Cache przy ponownym wdrożeniu.
+
+Budowanie wykonuje `node scripts/build.js` i tworzy `dist/index.html`, moduły JavaScript, CSS oraz bazę pytań JSON. Nie wymaga Vite, kluczy API ani zewnętrznych usług.
