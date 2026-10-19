@@ -1,0 +1,1143 @@
+[
+  {
+    "id": 1,
+    "hanzi": "两",
+    "pinyin": "liǎng",
+    "polish": "dwa (przed klasyfikatorem)",
+    "page": 1
+  },
+  {
+    "id": 2,
+    "hanzi": "百",
+    "pinyin": "bǎi",
+    "polish": "sto",
+    "page": 1
+  },
+  {
+    "id": 3,
+    "hanzi": "千",
+    "pinyin": "qiān",
+    "polish": "tysiąc",
+    "page": 1
+  },
+  {
+    "id": 4,
+    "hanzi": "大家",
+    "pinyin": "dà jiā",
+    "polish": "wszyscy",
+    "page": 1
+  },
+  {
+    "id": 5,
+    "hanzi": "您",
+    "pinyin": "nín",
+    "polish": "Pan/Pani; ty (forma grzecznościowa)",
+    "page": 1
+  },
+  {
+    "id": 6,
+    "hanzi": "你们",
+    "pinyin": "nǐ men",
+    "polish": "wy; was",
+    "page": 1
+  },
+  {
+    "id": 7,
+    "hanzi": "它",
+    "pinyin": "tā",
+    "polish": "ono/to (o rzeczy lub zwierzęciu)",
+    "page": 1
+  },
+  {
+    "id": 8,
+    "hanzi": "这个",
+    "pinyin": "zhè ge",
+    "polish": "ten; to",
+    "page": 1
+  },
+  {
+    "id": 9,
+    "hanzi": "那个",
+    "pinyin": "nà ge",
+    "polish": "tamten; tamto",
+    "page": 1
+  },
+  {
+    "id": 10,
+    "hanzi": "这些",
+    "pinyin": "zhè xiē",
+    "polish": "te; ci",
+    "page": 1
+  },
+  {
+    "id": 11,
+    "hanzi": "那些",
+    "pinyin": "nà xiē",
+    "polish": "tamte; tamci",
+    "page": 2
+  },
+  {
+    "id": 12,
+    "hanzi": "这里",
+    "pinyin": "zhè lǐ",
+    "polish": "tutaj",
+    "page": 2
+  },
+  {
+    "id": 13,
+    "hanzi": "那里",
+    "pinyin": "nà lǐ",
+    "polish": "tam",
+    "page": 2
+  },
+  {
+    "id": 14,
+    "hanzi": "这边",
+    "pinyin": "zhè biān",
+    "polish": "tutaj; po tej stronie",
+    "page": 2
+  },
+  {
+    "id": 15,
+    "hanzi": "那边",
+    "pinyin": "nà biān",
+    "polish": "tam; po tamtej stronie",
+    "page": 2
+  },
+  {
+    "id": 16,
+    "hanzi": "他们",
+    "pinyin": "tā men",
+    "polish": "oni; ich (mężczyźni lub grupa mieszana)",
+    "page": 2
+  },
+  {
+    "id": 17,
+    "hanzi": "她们",
+    "pinyin": "tā men",
+    "polish": "one; je (kobiety)",
+    "page": 2
+  },
+  {
+    "id": 18,
+    "hanzi": "它们",
+    "pinyin": "tā men",
+    "polish": "one; je (rzeczy/zwierzęta)",
+    "page": 2
+  },
+  {
+    "id": 19,
+    "hanzi": "有的",
+    "pinyin": "yǒu de",
+    "polish": "niektórzy; niektóre",
+    "page": 2
+  },
+  {
+    "id": 20,
+    "hanzi": "哪里",
+    "pinyin": "nǎ lǐ",
+    "polish": "gdzie",
+    "page": 2
+  },
+  {
+    "id": 21,
+    "hanzi": "哪个",
+    "pinyin": "nǎ ge",
+    "polish": "który; które",
+    "page": 2
+  },
+  {
+    "id": 22,
+    "hanzi": "哪些",
+    "pinyin": "nǎ xiē",
+    "polish": "które; jakie (liczba mnoga)",
+    "page": 2
+  },
+  {
+    "id": 23,
+    "hanzi": "今年",
+    "pinyin": "jīn nián",
+    "polish": "w tym roku",
+    "page": 2
+  },
+  {
+    "id": 24,
+    "hanzi": "明年",
+    "pinyin": "míng nián",
+    "polish": "w przyszłym roku",
+    "page": 3
+  },
+  {
+    "id": 25,
+    "hanzi": "去年",
+    "pinyin": "qù nián",
+    "polish": "w zeszłym roku",
+    "page": 3
+  },
+  {
+    "id": 26,
+    "hanzi": "号",
+    "pinyin": "hào",
+    "polish": "dzień miesiąca; numer",
+    "page": 3
+  },
+  {
+    "id": 27,
+    "hanzi": "星期日",
+    "pinyin": "xīng qī rì",
+    "polish": "niedziela",
+    "page": 3
+  },
+  {
+    "id": 28,
+    "hanzi": "星期天",
+    "pinyin": "xīng qī tiān",
+    "polish": "niedziela",
+    "page": 3
+  },
+  {
+    "id": 29,
+    "hanzi": "早上",
+    "pinyin": "zǎo shang",
+    "polish": "rano",
+    "page": 3
+  },
+  {
+    "id": 30,
+    "hanzi": "晚上",
+    "pinyin": "wǎn shang",
+    "polish": "wieczorem",
+    "page": 3
+  },
+  {
+    "id": 31,
+    "hanzi": "白天",
+    "pinyin": "bái tiān",
+    "polish": "w dzień; dzień",
+    "page": 3
+  },
+  {
+    "id": 32,
+    "hanzi": "小时",
+    "pinyin": "xiǎo shí",
+    "polish": "godzina",
+    "page": 3
+  },
+  {
+    "id": 33,
+    "hanzi": "时间",
+    "pinyin": "shí jiān",
+    "polish": "czas",
+    "page": 3
+  },
+  {
+    "id": 34,
+    "hanzi": "早",
+    "pinyin": "zǎo",
+    "polish": "wcześnie; rano",
+    "page": 3
+  },
+  {
+    "id": 35,
+    "hanzi": "晚",
+    "pinyin": "wǎn",
+    "polish": "późny; późno",
+    "page": 3
+  },
+  {
+    "id": 36,
+    "hanzi": "后",
+    "pinyin": "hòu",
+    "polish": "po; później; z tyłu",
+    "page": 3
+  },
+  {
+    "id": 37,
+    "hanzi": "女朋友",
+    "pinyin": "nǚ péng you",
+    "polish": "dziewczyna (partnerka)",
+    "page": 3
+  },
+  {
+    "id": 38,
+    "hanzi": "男朋友",
+    "pinyin": "nán péng you",
+    "polish": "chłopak (partner)",
+    "page": 4
+  },
+  {
+    "id": 39,
+    "hanzi": "姐姐",
+    "pinyin": "jiě jie",
+    "polish": "starsza siostra",
+    "page": 4
+  },
+  {
+    "id": 40,
+    "hanzi": "哥哥",
+    "pinyin": "gē ge",
+    "polish": "starszy brat",
+    "page": 4
+  },
+  {
+    "id": 41,
+    "hanzi": "妹妹",
+    "pinyin": "mèi mei",
+    "polish": "młodsza siostra",
+    "page": 4
+  },
+  {
+    "id": 42,
+    "hanzi": "弟弟",
+    "pinyin": "dì di",
+    "polish": "młodszy brat",
+    "page": 4
+  },
+  {
+    "id": 43,
+    "hanzi": "孩子",
+    "pinyin": "hái zi",
+    "polish": "dziecko; dzieci",
+    "page": 4
+  },
+  {
+    "id": 44,
+    "hanzi": "小朋友",
+    "pinyin": "xiǎo péng yǒu",
+    "polish": "dziecko; dzieci",
+    "page": 4
+  },
+  {
+    "id": 45,
+    "hanzi": "家人",
+    "pinyin": "jiā rén",
+    "polish": "członkowie rodziny; bliscy",
+    "page": 4
+  },
+  {
+    "id": 46,
+    "hanzi": "病人",
+    "pinyin": "bìng rén",
+    "polish": "pacjent; chory",
+    "page": 4
+  },
+  {
+    "id": 47,
+    "hanzi": "售货员",
+    "pinyin": "shòu huò yuán",
+    "polish": "sprzedawca",
+    "page": 4
+  },
+  {
+    "id": 48,
+    "hanzi": "服务员",
+    "pinyin": "fú wù yuán",
+    "polish": "pracownik obsługi; kelner/kelnerka",
+    "page": 4
+  },
+  {
+    "id": 49,
+    "hanzi": "女士",
+    "pinyin": "nǚ shì",
+    "polish": "pani; dama",
+    "page": 4
+  },
+  {
+    "id": 50,
+    "hanzi": "手机",
+    "pinyin": "shǒu jī",
+    "polish": "telefon komórkowy",
+    "page": 4
+  },
+  {
+    "id": 51,
+    "hanzi": "电话",
+    "pinyin": "diàn huà",
+    "polish": "telefon",
+    "page": 4
+  },
+  {
+    "id": 52,
+    "hanzi": "牛奶",
+    "pinyin": "niú nǎi",
+    "polish": "mleko",
+    "page": 4
+  },
+  {
+    "id": 53,
+    "hanzi": "晚饭",
+    "pinyin": "wǎn fàn",
+    "polish": "kolacja",
+    "page": 5
+  },
+  {
+    "id": 54,
+    "hanzi": "面条儿",
+    "pinyin": "miàn tiáor",
+    "polish": "makaron",
+    "page": 5
+  },
+  {
+    "id": 55,
+    "hanzi": "饺子",
+    "pinyin": "jiǎo zi",
+    "polish": "pierożki jiaozi",
+    "page": 5
+  },
+  {
+    "id": 56,
+    "hanzi": "包子",
+    "pinyin": "bāo zi",
+    "polish": "baozi; bułeczka na parze z nadzieniem",
+    "page": 5
+  },
+  {
+    "id": 57,
+    "hanzi": "课",
+    "pinyin": "kè",
+    "polish": "lekcja; zajęcia",
+    "page": 5
+  },
+  {
+    "id": 58,
+    "hanzi": "事",
+    "pinyin": "shì",
+    "polish": "sprawa; rzecz",
+    "page": 5
+  },
+  {
+    "id": 59,
+    "hanzi": "房间",
+    "pinyin": "fáng jiān",
+    "polish": "pokój",
+    "page": 5
+  },
+  {
+    "id": 60,
+    "hanzi": "饭",
+    "pinyin": "fàn",
+    "polish": "posiłek; ugotowany ryż; jedzenie",
+    "page": 5
+  },
+  {
+    "id": 61,
+    "hanzi": "午饭",
+    "pinyin": "wǔ fàn",
+    "polish": "obiad; lunch",
+    "page": 5
+  },
+  {
+    "id": 62,
+    "hanzi": "歌",
+    "pinyin": "gē",
+    "polish": "piosenka",
+    "page": 5
+  },
+  {
+    "id": 63,
+    "hanzi": "车",
+    "pinyin": "chē",
+    "polish": "samochód; pojazd",
+    "page": 5
+  },
+  {
+    "id": 64,
+    "hanzi": "药",
+    "pinyin": "yào",
+    "polish": "lekarstwo",
+    "page": 5
+  },
+  {
+    "id": 65,
+    "hanzi": "问题",
+    "pinyin": "wèn tí",
+    "polish": "pytanie; problem",
+    "page": 5
+  },
+  {
+    "id": 66,
+    "hanzi": "早饭",
+    "pinyin": "zǎo fàn",
+    "polish": "śniadanie",
+    "page": 5
+  },
+  {
+    "id": 67,
+    "hanzi": "面包",
+    "pinyin": "miàn bāo",
+    "polish": "chleb; pieczywo",
+    "page": 5
+  },
+  {
+    "id": 68,
+    "hanzi": "鸡蛋",
+    "pinyin": "jī dàn",
+    "polish": "jajko kurze",
+    "page": 6
+  },
+  {
+    "id": 69,
+    "hanzi": "火车",
+    "pinyin": "huǒ chē",
+    "polish": "pociąg",
+    "page": 6
+  },
+  {
+    "id": 70,
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "polish": "deszcz",
+    "page": 6
+  },
+  {
+    "id": 71,
+    "hanzi": "雪",
+    "pinyin": "xuě",
+    "polish": "śnieg",
+    "page": 6
+  },
+  {
+    "id": 72,
+    "hanzi": "中文",
+    "pinyin": "zhōng wén",
+    "polish": "język chiński (pisany)",
+    "page": 6
+  },
+  {
+    "id": 73,
+    "hanzi": "医",
+    "pinyin": "yī",
+    "polish": "medycyna",
+    "page": 6
+  },
+  {
+    "id": 74,
+    "hanzi": "病",
+    "pinyin": "bìng",
+    "polish": "chorować; choroba",
+    "page": 6
+  },
+  {
+    "id": 75,
+    "hanzi": "女",
+    "pinyin": "nǚ",
+    "polish": "kobieta; żeński",
+    "page": 6
+  },
+  {
+    "id": 76,
+    "hanzi": "男",
+    "pinyin": "nán",
+    "polish": "mężczyzna; męski",
+    "page": 6
+  },
+  {
+    "id": 77,
+    "hanzi": "大学生",
+    "pinyin": "dà xué shēng",
+    "polish": "student uniwersytetu",
+    "page": 6
+  },
+  {
+    "id": 78,
+    "hanzi": "中学生",
+    "pinyin": "zhōng xué shēng",
+    "polish": "uczeń szkoły średniej",
+    "page": 6
+  },
+  {
+    "id": 79,
+    "hanzi": "小学生",
+    "pinyin": "xiǎo xué shēng",
+    "polish": "uczeń szkoły podstawowej",
+    "page": 6
+  },
+  {
+    "id": 80,
+    "hanzi": "国",
+    "pinyin": "guó",
+    "polish": "kraj; państwo",
+    "page": 6
+  },
+  {
+    "id": 81,
+    "hanzi": "超市",
+    "pinyin": "chāo shì",
+    "polish": "supermarket",
+    "page": 6
+  },
+  {
+    "id": 82,
+    "hanzi": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "polish": "kino",
+    "page": 7
+  },
+  {
+    "id": 83,
+    "hanzi": "店",
+    "pinyin": "diàn",
+    "polish": "sklep",
+    "page": 7
+  },
+  {
+    "id": 84,
+    "hanzi": "外",
+    "pinyin": "wài",
+    "polish": "na zewnątrz; poza",
+    "page": 7
+  },
+  {
+    "id": 85,
+    "hanzi": "书店",
+    "pinyin": "shū diàn",
+    "polish": "księgarnia",
+    "page": 7
+  },
+  {
+    "id": 86,
+    "hanzi": "前",
+    "pinyin": "qián",
+    "polish": "przód; przed",
+    "page": 7
+  },
+  {
+    "id": 87,
+    "hanzi": "前边",
+    "pinyin": "qián bian",
+    "polish": "z przodu; przed",
+    "page": 7
+  },
+  {
+    "id": 88,
+    "hanzi": "边",
+    "pinyin": "biān",
+    "polish": "strona; brzeg",
+    "page": 7
+  },
+  {
+    "id": 89,
+    "hanzi": "外边",
+    "pinyin": "wài bian",
+    "polish": "na zewnątrz",
+    "page": 7
+  },
+  {
+    "id": 90,
+    "hanzi": "饭店",
+    "pinyin": "fàn diàn",
+    "polish": "restauracja",
+    "page": 7
+  },
+  {
+    "id": 91,
+    "hanzi": "大学",
+    "pinyin": "dà xué",
+    "polish": "uniwersytet; szkoła wyższa",
+    "page": 7
+  },
+  {
+    "id": 92,
+    "hanzi": "中学",
+    "pinyin": "zhōng xué",
+    "polish": "szkoła średnia",
+    "page": 7
+  },
+  {
+    "id": 93,
+    "hanzi": "小学",
+    "pinyin": "xiǎo xué",
+    "polish": "szkoła podstawowa",
+    "page": 7
+  },
+  {
+    "id": 94,
+    "hanzi": "公司",
+    "pinyin": "gōng sī",
+    "polish": "firma; biuro",
+    "page": 7
+  },
+  {
+    "id": 95,
+    "hanzi": "机场",
+    "pinyin": "jī chǎng",
+    "polish": "lotnisko",
+    "page": 7
+  },
+  {
+    "id": 96,
+    "hanzi": "口",
+    "pinyin": "kǒu",
+    "polish": "klasyfikator dla członków rodziny; kęs",
+    "page": 8
+  },
+  {
+    "id": 97,
+    "hanzi": "一些",
+    "pinyin": "yì xiē",
+    "polish": "trochę; kilka; niektóre",
+    "page": 8
+  },
+  {
+    "id": 98,
+    "hanzi": "分",
+    "pinyin": "fēn",
+    "polish": "minuta; punkt; część",
+    "page": 8
+  },
+  {
+    "id": 99,
+    "hanzi": "半",
+    "pinyin": "bàn",
+    "polish": "połowa; pół",
+    "page": 8
+  },
+  {
+    "id": 100,
+    "hanzi": "只",
+    "pinyin": "zhī",
+    "polish": "klasyfikator m.in. dla małych zwierząt",
+    "page": 8
+  },
+  {
+    "id": 101,
+    "hanzi": "斤",
+    "pinyin": "jīn",
+    "polish": "jin, jednostka masy = 0,5 kg",
+    "page": 8
+  },
+  {
+    "id": 102,
+    "hanzi": "件",
+    "pinyin": "jiàn",
+    "polish": "klasyfikator dla ubrań/spraw/przedmiotów",
+    "page": 8
+  },
+  {
+    "id": 103,
+    "hanzi": "元",
+    "pinyin": "yuán",
+    "polish": "yuan; jednostka chińskiej waluty",
+    "page": 8
+  },
+  {
+    "id": 104,
+    "hanzi": "一点儿",
+    "pinyin": "yì diǎn er",
+    "polish": "trochę; odrobina",
+    "page": 8
+  },
+  {
+    "id": 105,
+    "hanzi": "一下",
+    "pinyin": "yí xià",
+    "polish": "raz; chwilę (po czasowniku)",
+    "page": 8
+  },
+  {
+    "id": 106,
+    "hanzi": "杯",
+    "pinyin": "bēi",
+    "polish": "kubek/szklanka; klasyfikator napojów",
+    "page": 8
+  },
+  {
+    "id": 107,
+    "hanzi": "一半",
+    "pinyin": "yí bàn",
+    "polish": "połowa",
+    "page": 8
+  },
+  {
+    "id": 108,
+    "hanzi": "有些",
+    "pinyin": "yǒu xiē",
+    "polish": "niektóre; trochę",
+    "page": 8
+  },
+  {
+    "id": 109,
+    "hanzi": "天",
+    "pinyin": "tiān",
+    "polish": "dzień; niebo; klasyfikator dni",
+    "page": 8
+  },
+  {
+    "id": 110,
+    "hanzi": "请问",
+    "pinyin": "qǐng wèn",
+    "polish": "przepraszam, czy mogę zapytać…",
+    "page": 9
+  },
+  {
+    "id": 111,
+    "hanzi": "没有",
+    "pinyin": "méi yǒu",
+    "polish": "nie mieć; nie ma",
+    "page": 9
+  },
+  {
+    "id": 112,
+    "hanzi": "休息",
+    "pinyin": "xiū xi",
+    "polish": "odpoczywać",
+    "page": 9
+  },
+  {
+    "id": 113,
+    "hanzi": "做饭",
+    "pinyin": "zuò fàn",
+    "polish": "gotować; przygotowywać posiłek",
+    "page": 9
+  },
+  {
+    "id": 114,
+    "hanzi": "下班",
+    "pinyin": "xià bān",
+    "polish": "kończyć pracę; wychodzić z pracy",
+    "page": 9
+  },
+  {
+    "id": 115,
+    "hanzi": "见",
+    "pinyin": "jiàn",
+    "polish": "widzieć; spotkać",
+    "page": 9
+  },
+  {
+    "id": 116,
+    "hanzi": "上课",
+    "pinyin": "shàng kè",
+    "polish": "mieć zajęcia; uczestniczyć w lekcji",
+    "page": 9
+  },
+  {
+    "id": 117,
+    "hanzi": "下课",
+    "pinyin": "xià kè",
+    "polish": "kończyć lekcję; po lekcji",
+    "page": 9
+  },
+  {
+    "id": 118,
+    "hanzi": "上班",
+    "pinyin": "shàng bān",
+    "polish": "iść do pracy; pracować",
+    "page": 9
+  },
+  {
+    "id": 119,
+    "hanzi": "到",
+    "pinyin": "dào",
+    "polish": "przybyć; dotrzeć do",
+    "page": 9
+  },
+  {
+    "id": 120,
+    "hanzi": "读书",
+    "pinyin": "dú shū",
+    "polish": "czytać książki; uczyć się",
+    "page": 9
+  },
+  {
+    "id": 121,
+    "hanzi": "唱",
+    "pinyin": "chàng",
+    "polish": "śpiewać",
+    "page": 9
+  },
+  {
+    "id": 122,
+    "hanzi": "玩",
+    "pinyin": "wán",
+    "polish": "bawić się; grać",
+    "page": 9
+  },
+  {
+    "id": 123,
+    "hanzi": "穿",
+    "pinyin": "chuān",
+    "polish": "nosić; zakładać (ubranie)",
+    "page": 9
+  },
+  {
+    "id": 124,
+    "hanzi": "知道",
+    "pinyin": "zhī dào",
+    "polish": "wiedzieć; znać",
+    "page": 9
+  },
+  {
+    "id": 125,
+    "hanzi": "找",
+    "pinyin": "zhǎo",
+    "polish": "szukać; znaleźć",
+    "page": 10
+  },
+  {
+    "id": 126,
+    "hanzi": "开车",
+    "pinyin": "kāi chē",
+    "polish": "prowadzić samochód",
+    "page": 10
+  },
+  {
+    "id": 127,
+    "hanzi": "学",
+    "pinyin": "xué",
+    "polish": "uczyć się",
+    "page": 10
+  },
+  {
+    "id": 128,
+    "hanzi": "起床",
+    "pinyin": "qǐ chuáng",
+    "polish": "wstawać z łóżka",
+    "page": 10
+  },
+  {
+    "id": 129,
+    "hanzi": "睡",
+    "pinyin": "shuì",
+    "polish": "spać",
+    "page": 10
+  },
+  {
+    "id": 130,
+    "hanzi": "问",
+    "pinyin": "wèn",
+    "polish": "pytać",
+    "page": 10
+  },
+  {
+    "id": 131,
+    "hanzi": "说",
+    "pinyin": "shuō",
+    "polish": "mówić; powiedzieć",
+    "page": 10
+  },
+  {
+    "id": 132,
+    "hanzi": "要",
+    "pinyin": "yào",
+    "polish": "chcieć; potrzebować",
+    "page": 10
+  },
+  {
+    "id": 133,
+    "hanzi": "觉得",
+    "pinyin": "jué de",
+    "polish": "uważać; czuć; sądzić",
+    "page": 10
+  },
+  {
+    "id": 134,
+    "hanzi": "生病",
+    "pinyin": "shēng bìng",
+    "polish": "chorować; zachorować",
+    "page": 10
+  },
+  {
+    "id": 135,
+    "hanzi": "看病",
+    "pinyin": "kàn bìng",
+    "polish": "iść do lekarza; leczyć się",
+    "page": 10
+  },
+  {
+    "id": 136,
+    "hanzi": "卖",
+    "pinyin": "mài",
+    "polish": "sprzedawać",
+    "page": 10
+  },
+  {
+    "id": 137,
+    "hanzi": "给",
+    "pinyin": "gěi",
+    "polish": "dawać; dać",
+    "page": 10
+  },
+  {
+    "id": 138,
+    "hanzi": "听见",
+    "pinyin": "tīng jiàn",
+    "polish": "usłyszeć",
+    "page": 10
+  },
+  {
+    "id": 139,
+    "hanzi": "上学",
+    "pinyin": "shàng xué",
+    "polish": "iść do szkoły; uczęszczać do szkoły",
+    "page": 10
+  },
+  {
+    "id": 140,
+    "hanzi": "接",
+    "pinyin": "jiē",
+    "polish": "odebrać; powitać; spotkać",
+    "page": 11
+  },
+  {
+    "id": 141,
+    "hanzi": "也",
+    "pinyin": "yě",
+    "polish": "też; również",
+    "page": 11
+  },
+  {
+    "id": 142,
+    "hanzi": "还",
+    "pinyin": "hái",
+    "polish": "jeszcze; nadal",
+    "page": 11
+  },
+  {
+    "id": 143,
+    "hanzi": "忙",
+    "pinyin": "máng",
+    "polish": "zajęty",
+    "page": 11
+  },
+  {
+    "id": 144,
+    "hanzi": "对",
+    "pinyin": "duì",
+    "polish": "poprawny; właściwy",
+    "page": 11
+  },
+  {
+    "id": 145,
+    "hanzi": "新",
+    "pinyin": "xīn",
+    "polish": "nowy",
+    "page": 11
+  },
+  {
+    "id": 146,
+    "hanzi": "真",
+    "pinyin": "zhēn",
+    "polish": "naprawdę; bardzo",
+    "page": 11
+  },
+  {
+    "id": 147,
+    "hanzi": "好看",
+    "pinyin": "hǎo kàn",
+    "polish": "ładny; dobrze wyglądać",
+    "page": 11
+  },
+  {
+    "id": 148,
+    "hanzi": "非常",
+    "pinyin": "fēi cháng",
+    "polish": "bardzo; niezwykle",
+    "page": 11
+  },
+  {
+    "id": 149,
+    "hanzi": "好吃",
+    "pinyin": "hǎo chī",
+    "polish": "smaczny",
+    "page": 11
+  },
+  {
+    "id": 150,
+    "hanzi": "便宜",
+    "pinyin": "pián yi",
+    "polish": "tani",
+    "page": 11
+  },
+  {
+    "id": 151,
+    "hanzi": "贵",
+    "pinyin": "guì",
+    "polish": "drogi",
+    "page": 11
+  },
+  {
+    "id": 152,
+    "hanzi": "正在",
+    "pinyin": "zhèng zài",
+    "polish": "właśnie być w trakcie",
+    "page": 11
+  },
+  {
+    "id": 153,
+    "hanzi": "有点儿",
+    "pinyin": "yǒu diǎnr",
+    "polish": "trochę; nieco",
+    "page": 11
+  },
+  {
+    "id": 154,
+    "hanzi": "再",
+    "pinyin": "zài",
+    "polish": "znowu; ponownie; potem",
+    "page": 12
+  },
+  {
+    "id": 155,
+    "hanzi": "可以",
+    "pinyin": "kě yǐ",
+    "polish": "móc; można",
+    "page": 12
+  },
+  {
+    "id": 156,
+    "hanzi": "不要",
+    "pinyin": "bú yào",
+    "polish": "nie; nie rób; nie chcieć",
+    "page": 12
+  },
+  {
+    "id": 157,
+    "hanzi": "好玩儿",
+    "pinyin": "hǎo wánr",
+    "polish": "fajny; zabawny; ciekawy",
+    "page": 12
+  },
+  {
+    "id": 158,
+    "hanzi": "好听",
+    "pinyin": "hǎo tīng",
+    "polish": "przyjemny dla ucha; ładnie brzmiący",
+    "page": 12
+  },
+  {
+    "id": 159,
+    "hanzi": "们",
+    "pinyin": "men",
+    "polish": "sufiks liczby mnogiej (zaimków i niektórych rzeczowników)",
+    "page": 12
+  },
+  {
+    "id": 160,
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "polish": "partykuła sugestii/prośby",
+    "page": 12
+  },
+  {
+    "id": 161,
+    "hanzi": "第",
+    "pinyin": "dì",
+    "polish": "prefiks liczebników porządkowych",
+    "page": 12
+  },
+  {
+    "id": 162,
+    "hanzi": "你好",
+    "pinyin": "nǐ hǎo",
+    "polish": "cześć; dzień dobry",
+    "page": 12
+  },
+  {
+    "id": 163,
+    "hanzi": "没事",
+    "pinyin": "méi shì",
+    "polish": "nic się nie stało; w porządku",
+    "page": 12
+  }
+]

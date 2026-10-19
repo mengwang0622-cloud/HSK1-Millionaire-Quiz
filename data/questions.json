@@ -1,0 +1,6913 @@
+[
+  {
+    "id": "v-1",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "两",
+    "pinyin": "liǎng",
+    "choices": [
+      "dwa (przed klasyfikatorem)",
+      "tamten; tamto",
+      "pracownik obsługi; kelner/kelnerka",
+      "student uniwersytetu"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      1
+    ],
+    "explanation": "两 (liǎng) — dwa (przed klasyfikatorem). Podręcznik, s. 1."
+  },
+  {
+    "id": "p-1",
+    "text": "Który zapis pinyin odpowiada „两”?",
+    "chinese": "两",
+    "choices": [
+      "liǎng",
+      "nà lǐ",
+      "bìng rén",
+      "dà xué shēng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      1
+    ],
+    "explanation": "两 czytamy liǎng; znaczenie: dwa (przed klasyfikatorem). Podręcznik, s. 1."
+  },
+  {
+    "id": "v-2",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "百",
+    "pinyin": "bǎi",
+    "choices": [
+      "sto",
+      "gdzie",
+      "pierożki jiaozi",
+      "księgarnia"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      2
+    ],
+    "explanation": "百 (bǎi) — sto. Podręcznik, s. 1."
+  },
+  {
+    "id": "p-2",
+    "text": "Który zapis pinyin odpowiada „百”?",
+    "chinese": "百",
+    "choices": [
+      "bǎi",
+      "hào",
+      "kè",
+      "biān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      2
+    ],
+    "explanation": "百 czytamy bǎi; znaczenie: sto. Podręcznik, s. 1."
+  },
+  {
+    "id": "v-3",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "千",
+    "pinyin": "qiān",
+    "choices": [
+      "tysiąc",
+      "wieczorem",
+      "piosenka",
+      "lotnisko"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      3
+    ],
+    "explanation": "千 (qiān) — tysiąc. Podręcznik, s. 1."
+  },
+  {
+    "id": "p-3",
+    "text": "Który zapis pinyin odpowiada „千”?",
+    "chinese": "千",
+    "choices": [
+      "qiān",
+      "nǚ péng you",
+      "jī dàn",
+      "bàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      3
+    ],
+    "explanation": "千 czytamy qiān; znaczenie: tysiąc. Podręcznik, s. 1."
+  },
+  {
+    "id": "v-4",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "大家",
+    "pinyin": "dà jiā",
+    "choices": [
+      "wszyscy",
+      "chłopak (partner)",
+      "pociąg",
+      "raz; chwilę (po czasowniku)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      4
+    ],
+    "explanation": "大家 (dà jiā) — wszyscy. Podręcznik, s. 1."
+  },
+  {
+    "id": "p-4",
+    "text": "Który zapis pinyin odpowiada „大家”?",
+    "chinese": "大家",
+    "choices": [
+      "dà jiā",
+      "fú wù yuán",
+      "xiǎo xué shēng",
+      "qǐng wèn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      4
+    ],
+    "explanation": "大家 czytamy dà jiā; znaczenie: wszyscy. Podręcznik, s. 1."
+  },
+  {
+    "id": "v-5",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "您",
+    "pinyin": "nín",
+    "choices": [
+      "Pan/Pani; ty (forma grzecznościowa)",
+      "sprzedawca",
+      "mężczyzna; męski",
+      "kończyć pracę; wychodzić z pracy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      5
+    ],
+    "explanation": "您 (nín) — Pan/Pani; ty (forma grzecznościowa). Podręcznik, s. 1."
+  },
+  {
+    "id": "p-5",
+    "text": "Który zapis pinyin odpowiada „您”?",
+    "chinese": "您",
+    "choices": [
+      "nín",
+      "fáng jiān",
+      "fàn diàn",
+      "wán"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      5
+    ],
+    "explanation": "您 czytamy nín; znaczenie: Pan/Pani; ty (forma grzecznościowa). Podręcznik, s. 1."
+  },
+  {
+    "id": "v-6",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "你们",
+    "pinyin": "nǐ men",
+    "choices": [
+      "wy; was",
+      "makaron",
+      "sklep",
+      "śpiewać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      6
+    ],
+    "explanation": "你们 (nǐ men) — wy; was. Podręcznik, s. 1."
+  },
+  {
+    "id": "p-6",
+    "text": "Który zapis pinyin odpowiada „你们”?",
+    "chinese": "你们",
+    "choices": [
+      "nǐ men",
+      "yǔ",
+      "jīn",
+      "shēng bìng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      6
+    ],
+    "explanation": "你们 czytamy nǐ men; znaczenie: wy; was. Podręcznik, s. 1."
+  },
+  {
+    "id": "v-7",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "它",
+    "pinyin": "tā",
+    "choices": [
+      "ono/to (o rzeczy lub zwierzęciu)",
+      "obiad; lunch",
+      "firma; biuro",
+      "wstawać z łóżka"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      7
+    ],
+    "explanation": "它 (tā) — ono/to (o rzeczy lub zwierzęciu). Podręcznik, s. 1."
+  },
+  {
+    "id": "p-7",
+    "text": "Który zapis pinyin odpowiada „它”?",
+    "chinese": "它",
+    "choices": [
+      "tā",
+      "chāo shì",
+      "xiū xi",
+      "xīn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      7
+    ],
+    "explanation": "它 czytamy tā; znaczenie: ono/to (o rzeczy lub zwierzęciu). Podręcznik, s. 1."
+  },
+  {
+    "id": "v-8",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "这个",
+    "pinyin": "zhè ge",
+    "choices": [
+      "ten; to",
+      "jajko kurze",
+      "yuan; jednostka chińskiej waluty",
+      "iść do lekarza; leczyć się"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      8
+    ],
+    "explanation": "这个 (zhè ge) — ten; to. Podręcznik, s. 1."
+  },
+  {
+    "id": "p-8",
+    "text": "Który zapis pinyin odpowiada „这个”?",
+    "chinese": "这个",
+    "choices": [
+      "zhè ge",
+      "zhōng xué",
+      "zhī dào",
+      "bú yào"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      8
+    ],
+    "explanation": "这个 czytamy zhè ge; znaczenie: ten; to. Podręcznik, s. 1."
+  },
+  {
+    "id": "v-9",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "那个",
+    "pinyin": "nà ge",
+    "choices": [
+      "tamten; tamto",
+      "kobieta; żeński",
+      "gotować; przygotowywać posiłek",
+      "jeszcze; nadal"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      9
+    ],
+    "explanation": "那个 (nà ge) — tamten; tamto. Podręcznik, s. 1."
+  },
+  {
+    "id": "p-9",
+    "text": "Który zapis pinyin odpowiada „那个”?",
+    "chinese": "那个",
+    "choices": [
+      "nà ge",
+      "yuán",
+      "mài",
+      "dà jiā"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      9
+    ],
+    "explanation": "那个 czytamy nà ge; znaczenie: tamten; tamto. Podręcznik, s. 1."
+  },
+  {
+    "id": "v-10",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "这些",
+    "pinyin": "zhè xiē",
+    "choices": [
+      "te; ci",
+      "kino",
+      "czytać książki; uczyć się",
+      "smaczny"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      10
+    ],
+    "explanation": "这些 (zhè xiē) — te; ci. Podręcznik, s. 1."
+  },
+  {
+    "id": "p-10",
+    "text": "Który zapis pinyin odpowiada „这些”?",
+    "chinese": "这些",
+    "choices": [
+      "zhè xiē",
+      "xià bān",
+      "hǎo kàn",
+      "tā men"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      10
+    ],
+    "explanation": "这些 czytamy zhè xiē; znaczenie: te; ci. Podręcznik, s. 1."
+  },
+  {
+    "id": "v-11",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "那些",
+    "pinyin": "nà xiē",
+    "choices": [
+      "tamte; tamci",
+      "szkoła podstawowa",
+      "uczyć się",
+      "fajny; zabawny; ciekawy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      11
+    ],
+    "explanation": "那些 (nà xiē) — tamte; tamci. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-11",
+    "text": "Który zapis pinyin odpowiada „那些”?",
+    "chinese": "那些",
+    "choices": [
+      "nà xiē",
+      "kāi chē",
+      "hǎo tīng",
+      "zǎo shang"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      11
+    ],
+    "explanation": "那些 czytamy nà xiē; znaczenie: tamte; tamci. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-12",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "这里",
+    "pinyin": "zhè lǐ",
+    "choices": [
+      "tutaj",
+      "jin, jednostka masy = 0,5 kg",
+      "uważać; czuć; sądzić",
+      "nic się nie stało; w porządku"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      12
+    ],
+    "explanation": "这里 (zhè lǐ) — tutaj. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-12",
+    "text": "Który zapis pinyin odpowiada „这里”?",
+    "chinese": "这里",
+    "choices": [
+      "zhè lǐ",
+      "tīng jiàn",
+      "nǐ men",
+      "gē ge"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      12
+    ],
+    "explanation": "这里 czytamy zhè lǐ; znaczenie: tutaj. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-13",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "那里",
+    "pinyin": "nà lǐ",
+    "choices": [
+      "tam",
+      "nie mieć; nie ma",
+      "odebrać; powitać; spotkać",
+      "ono/to (o rzeczy lub zwierzęciu)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      13
+    ],
+    "explanation": "那里 (nà lǐ) — tam. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-13",
+    "text": "Który zapis pinyin odpowiada „那里”?",
+    "chinese": "那里",
+    "choices": [
+      "nà lǐ",
+      "hǎo chī",
+      "nǎ lǐ",
+      "diàn huà"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      13
+    ],
+    "explanation": "那里 czytamy nà lǐ; znaczenie: tam. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-14",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "这边",
+    "pinyin": "zhè biān",
+    "choices": [
+      "tutaj; po tej stronie",
+      "iść do pracy; pracować",
+      "ładny; dobrze wyglądać",
+      "one; je (rzeczy/zwierzęta)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      14
+    ],
+    "explanation": "这边 (zhè biān) — tutaj; po tej stronie. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-14",
+    "text": "Który zapis pinyin odpowiada „这边”?",
+    "chinese": "这边",
+    "choices": [
+      "zhè biān",
+      "ba",
+      "bái tiān",
+      "gē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      14
+    ],
+    "explanation": "这边 czytamy zhè biān; znaczenie: tutaj; po tej stronie. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-15",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "那边",
+    "pinyin": "nà biān",
+    "choices": [
+      "tam; po tamtej stronie",
+      "szukać; znaleźć",
+      "móc; można",
+      "w zeszłym roku"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      15
+    ],
+    "explanation": "那边 (nà biān) — tam; po tamtej stronie. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-15",
+    "text": "Który zapis pinyin odpowiada „那边”?",
+    "chinese": "那边",
+    "choices": [
+      "nà biān",
+      "zhè ge",
+      "dì di",
+      "yī"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      15
+    ],
+    "explanation": "那边 czytamy nà biān; znaczenie: tam; po tamtej stronie. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-16",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "他们",
+    "pinyin": "tā men",
+    "choices": [
+      "oni; ich (mężczyźni lub grupa mieszana)",
+      "uważać; czuć; sądzić",
+      "nic się nie stało; w porządku",
+      "chłopak (partner)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      16
+    ],
+    "explanation": "他们 (tā men) — oni; ich (mężczyźni lub grupa mieszana). Podręcznik, s. 2."
+  },
+  {
+    "id": "v-17",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "她们",
+    "pinyin": "tā men",
+    "choices": [
+      "one; je (kobiety)",
+      "też; również",
+      "ten; to",
+      "pani; dama"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      17
+    ],
+    "explanation": "她们 (tā men) — one; je (kobiety). Podręcznik, s. 2."
+  },
+  {
+    "id": "v-18",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "它们",
+    "pinyin": "tā men",
+    "choices": [
+      "one; je (rzeczy/zwierzęta)",
+      "bardzo; niezwykle",
+      "który; które",
+      "baozi; bułeczka na parze z nadzieniem"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      18
+    ],
+    "explanation": "它们 (tā men) — one; je (rzeczy/zwierzęta). Podręcznik, s. 2."
+  },
+  {
+    "id": "v-19",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "有的",
+    "pinyin": "yǒu de",
+    "choices": [
+      "niektórzy; niektóre",
+      "móc; można",
+      "dzień miesiąca; numer",
+      "obiad; lunch"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      19
+    ],
+    "explanation": "有的 (yǒu de) — niektórzy; niektóre. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-19",
+    "text": "Który zapis pinyin odpowiada „有的”?",
+    "chinese": "有的",
+    "choices": [
+      "yǒu de",
+      "jiǎo zi",
+      "qián",
+      "shàng bān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      19
+    ],
+    "explanation": "有的 czytamy yǒu de; znaczenie: niektórzy; niektóre. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-20",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "哪里",
+    "pinyin": "nǎ lǐ",
+    "choices": [
+      "gdzie",
+      "cześć; dzień dobry",
+      "dziewczyna (partnerka)",
+      "jajko kurze"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      20
+    ],
+    "explanation": "哪里 (nǎ lǐ) — gdzie. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-20",
+    "text": "Który zapis pinyin odpowiada „哪里”?",
+    "chinese": "哪里",
+    "choices": [
+      "nǎ lǐ",
+      "zǎo fàn",
+      "yì xiē",
+      "shuì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      20
+    ],
+    "explanation": "哪里 czytamy nǎ lǐ; znaczenie: gdzie. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-21",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "哪个",
+    "pinyin": "nǎ ge",
+    "choices": [
+      "który; które",
+      "ono/to (o rzeczy lub zwierzęciu)",
+      "pracownik obsługi; kelner/kelnerka",
+      "student uniwersytetu"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      21
+    ],
+    "explanation": "哪个 (nǎ ge) — który; które. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-22",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "哪些",
+    "pinyin": "nǎ xiē",
+    "choices": [
+      "które; jakie (liczba mnoga)",
+      "one; je (rzeczy/zwierzęta)",
+      "pierożki jiaozi",
+      "księgarnia"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      22
+    ],
+    "explanation": "哪些 (nǎ xiē) — które; jakie (liczba mnoga). Podręcznik, s. 2."
+  },
+  {
+    "id": "p-22",
+    "text": "Który zapis pinyin odpowiada „哪些”?",
+    "chinese": "哪些",
+    "choices": [
+      "nǎ xiē",
+      "biān",
+      "dú shū",
+      "zhèng zài"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      22
+    ],
+    "explanation": "哪些 czytamy nǎ xiē; znaczenie: które; jakie (liczba mnoga). Podręcznik, s. 2."
+  },
+  {
+    "id": "v-23",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "今年",
+    "pinyin": "jīn nián",
+    "choices": [
+      "w tym roku",
+      "w zeszłym roku",
+      "posiłek; ugotowany ryż; jedzenie",
+      "szkoła podstawowa"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      23
+    ],
+    "explanation": "今年 (jīn nián) — w tym roku. Podręcznik, s. 2."
+  },
+  {
+    "id": "p-23",
+    "text": "Który zapis pinyin odpowiada „今年”?",
+    "chinese": "今年",
+    "choices": [
+      "jīn nián",
+      "bàn",
+      "shuō",
+      "méi shì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      23
+    ],
+    "explanation": "今年 czytamy jīn nián; znaczenie: w tym roku. Podręcznik, s. 2."
+  },
+  {
+    "id": "v-24",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "明年",
+    "pinyin": "míng nián",
+    "choices": [
+      "w przyszłym roku",
+      "po; później; z tyłu",
+      "chleb; pieczywo",
+      "klasyfikator dla ubrań/spraw/przedmiotów"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      24
+    ],
+    "explanation": "明年 (míng nián) — w przyszłym roku. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-24",
+    "text": "Który zapis pinyin odpowiada „明年”?",
+    "chinese": "明年",
+    "choices": [
+      "míng nián",
+      "qǐng wèn",
+      "máng",
+      "nà xiē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      24
+    ],
+    "explanation": "明年 czytamy míng nián; znaczenie: w przyszłym roku. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-25",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "去年",
+    "pinyin": "qù nián",
+    "choices": [
+      "w zeszłym roku",
+      "członkowie rodziny; bliscy",
+      "chorować; choroba",
+      "odpoczywać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      25
+    ],
+    "explanation": "去年 (qù nián) — w zeszłym roku. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-25",
+    "text": "Który zapis pinyin odpowiada „去年”?",
+    "chinese": "去年",
+    "choices": [
+      "qù nián",
+      "wán",
+      "zài",
+      "míng nián"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      25
+    ],
+    "explanation": "去年 czytamy qù nián; znaczenie: w zeszłym roku. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-26",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "号",
+    "pinyin": "hào",
+    "choices": [
+      "dzień miesiąca; numer",
+      "mleko",
+      "supermarket",
+      "przybyć; dotrzeć do"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      26
+    ],
+    "explanation": "号 (hào) — dzień miesiąca; numer. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-26",
+    "text": "Który zapis pinyin odpowiada „号”?",
+    "chinese": "号",
+    "choices": [
+      "hào",
+      "shēng bìng",
+      "bǎi",
+      "hòu"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      26
+    ],
+    "explanation": "号 czytamy hào; znaczenie: dzień miesiąca; numer. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-27",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "星期日",
+    "pinyin": "xīng qī rì",
+    "choices": [
+      "niedziela",
+      "lekcja; zajęcia",
+      "restauracja",
+      "wiedzieć; znać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      27
+    ],
+    "explanation": "星期日 (xīng qī rì) — niedziela. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-27",
+    "text": "Który zapis pinyin odpowiada „星期日”?",
+    "chinese": "星期日",
+    "choices": [
+      "xīng qī rì",
+      "xīn",
+      "nà lǐ",
+      "shòu huò yuán"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      27
+    ],
+    "explanation": "星期日 czytamy xīng qī rì; znaczenie: niedziela. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-28",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "星期天",
+    "pinyin": "xīng qī tiān",
+    "choices": [
+      "niedziela",
+      "lekarstwo",
+      "minuta; punkt; część",
+      "mówić; powiedzieć"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      28
+    ],
+    "explanation": "星期天 (xīng qī tiān) — niedziela. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-28",
+    "text": "Który zapis pinyin odpowiada „星期天”?",
+    "chinese": "星期天",
+    "choices": [
+      "xīng qī tiān",
+      "bú yào",
+      "hào",
+      "shì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      28
+    ],
+    "explanation": "星期天 czytamy xīng qī tiān; znaczenie: niedziela. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-29",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "早上",
+    "pinyin": "zǎo shang",
+    "choices": [
+      "rano",
+      "śnieg",
+      "dzień; niebo; klasyfikator dni",
+      "usłyszeć"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      29
+    ],
+    "explanation": "早上 (zǎo shang) — rano. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-29",
+    "text": "Który zapis pinyin odpowiada „早上”?",
+    "chinese": "早上",
+    "choices": [
+      "zǎo shang",
+      "dà jiā",
+      "nán péng you",
+      "huǒ chē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      29
+    ],
+    "explanation": "早上 czytamy zǎo shang; znaczenie: rano. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-30",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "晚上",
+    "pinyin": "wǎn shang",
+    "choices": [
+      "wieczorem",
+      "kraj; państwo",
+      "iść do pracy; pracować",
+      "ładny; dobrze wyglądać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      30
+    ],
+    "explanation": "晚上 (wǎn shang) — wieczorem. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-30",
+    "text": "Który zapis pinyin odpowiada „晚上”?",
+    "chinese": "晚上",
+    "choices": [
+      "wǎn shang",
+      "nà biān",
+      "nǚ shì",
+      "guó"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      30
+    ],
+    "explanation": "晚上 czytamy wǎn shang; znaczenie: wieczorem. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-31",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "白天",
+    "pinyin": "bái tiān",
+    "choices": [
+      "w dzień; dzień",
+      "szkoła średnia",
+      "uczyć się",
+      "fajny; zabawny; ciekawy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      31
+    ],
+    "explanation": "白天 (bái tiān) — w dzień; dzień. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-31",
+    "text": "Który zapis pinyin odpowiada „白天”?",
+    "chinese": "白天",
+    "choices": [
+      "bái tiān",
+      "xīng qī tiān",
+      "fàn",
+      "dà xué"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      31
+    ],
+    "explanation": "白天 czytamy bái tiān; znaczenie: w dzień; dzień. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-32",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "小时",
+    "pinyin": "xiǎo shí",
+    "choices": [
+      "godzina",
+      "klasyfikator m.in. dla małych zwierząt",
+      "chcieć; potrzebować",
+      "cześć; dzień dobry"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      32
+    ],
+    "explanation": "小时 (xiǎo shí) — godzina. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-32",
+    "text": "Który zapis pinyin odpowiada „小时”?",
+    "chinese": "小时",
+    "choices": [
+      "xiǎo shí",
+      "gē ge",
+      "xuě",
+      "jiàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      32
+    ],
+    "explanation": "小时 czytamy xiǎo shí; znaczenie: godzina. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-33",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "时间",
+    "pinyin": "shí jiān",
+    "choices": [
+      "czas",
+      "przepraszam, czy mogę zapytać…",
+      "iść do szkoły; uczęszczać do szkoły",
+      "wy; was"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      33
+    ],
+    "explanation": "时间 (shí jiān) — czas. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-33",
+    "text": "Który zapis pinyin odpowiada „时间”?",
+    "chinese": "时间",
+    "choices": [
+      "shí jiān",
+      "diàn huà",
+      "diàn yǐng yuàn",
+      "zuò fàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      33
+    ],
+    "explanation": "时间 czytamy shí jiān; znaczenie: czas. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-34",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "早",
+    "pinyin": "zǎo",
+    "choices": [
+      "wcześnie; rano",
+      "widzieć; spotkać",
+      "poprawny; właściwy",
+      "tamte; tamci"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      34
+    ],
+    "explanation": "早 (zǎo) — wcześnie; rano. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-34",
+    "text": "Który zapis pinyin odpowiada „早”?",
+    "chinese": "早",
+    "choices": [
+      "zǎo",
+      "gē",
+      "xiǎo xué",
+      "zhǎo"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      34
+    ],
+    "explanation": "早 czytamy zǎo; znaczenie: wcześnie; rano. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-35",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "晚",
+    "pinyin": "wǎn",
+    "choices": [
+      "późny; późno",
+      "wiedzieć; znać",
+      "znowu; ponownie; potem",
+      "w przyszłym roku"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      35
+    ],
+    "explanation": "晚 (wǎn) — późny; późno. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-35",
+    "text": "Który zapis pinyin odpowiada „晚”?",
+    "chinese": "晚",
+    "choices": [
+      "wǎn",
+      "yī",
+      "yì diǎn er",
+      "gěi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      35
+    ],
+    "explanation": "晚 czytamy wǎn; znaczenie: późny; późno. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-36",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "后",
+    "pinyin": "hòu",
+    "choices": [
+      "po; później; z tyłu",
+      "mówić; powiedzieć",
+      "prefiks liczebników porządkowych",
+      "późny; późno"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      36
+    ],
+    "explanation": "后 (hòu) — po; później; z tyłu. Podręcznik, s. 3."
+  },
+  {
+    "id": "p-36",
+    "text": "Który zapis pinyin odpowiada „后”?",
+    "chinese": "后",
+    "choices": [
+      "hòu",
+      "wài",
+      "shàng kè",
+      "fēi cháng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      36
+    ],
+    "explanation": "后 czytamy hòu; znaczenie: po; później; z tyłu. Podręcznik, s. 3."
+  },
+  {
+    "id": "v-37",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "女朋友",
+    "pinyin": "nǚ péng you",
+    "choices": [
+      "dziewczyna (partnerka)",
+      "usłyszeć",
+      "Pan/Pani; ty (forma grzecznościowa)",
+      "członkowie rodziny; bliscy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      37
+    ],
+    "explanation": "女朋友 (nǚ péng you) — dziewczyna (partnerka). Podręcznik, s. 3."
+  },
+  {
+    "id": "p-37",
+    "text": "Który zapis pinyin odpowiada „女朋友”?",
+    "chinese": "女朋友",
+    "choices": [
+      "nǚ péng you",
+      "jī chǎng",
+      "xué",
+      "men"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      37
+    ],
+    "explanation": "女朋友 czytamy nǚ péng you; znaczenie: dziewczyna (partnerka). Podręcznik, s. 3."
+  },
+  {
+    "id": "v-38",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "男朋友",
+    "pinyin": "nán péng you",
+    "choices": [
+      "chłopak (partner)",
+      "nowy",
+      "oni; ich (mężczyźni lub grupa mieszana)",
+      "mleko"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      38
+    ],
+    "explanation": "男朋友 (nán péng you) — chłopak (partner). Podręcznik, s. 4."
+  },
+  {
+    "id": "p-38",
+    "text": "Który zapis pinyin odpowiada „男朋友”?",
+    "chinese": "男朋友",
+    "choices": [
+      "nán péng you",
+      "bēi",
+      "shàng xué",
+      "tā"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      38
+    ],
+    "explanation": "男朋友 czytamy nán péng you; znaczenie: chłopak (partner). Podręcznik, s. 4."
+  },
+  {
+    "id": "v-39",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "姐姐",
+    "pinyin": "jiě jie",
+    "choices": [
+      "starsza siostra",
+      "właśnie być w trakcie",
+      "w tym roku",
+      "pokój"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      39
+    ],
+    "explanation": "姐姐 (jiě jie) — starsza siostra. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-39",
+    "text": "Który zapis pinyin odpowiada „姐姐”?",
+    "chinese": "姐姐",
+    "choices": [
+      "jiě jie",
+      "shàng bān",
+      "pián yi",
+      "nǎ lǐ"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      39
+    ],
+    "explanation": "姐姐 czytamy jiě jie; znaczenie: starsza siostra. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-40",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "哥哥",
+    "pinyin": "gē ge",
+    "choices": [
+      "starszy brat",
+      "partykuła sugestii/prośby",
+      "czas",
+      "śniadanie"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      40
+    ],
+    "explanation": "哥哥 (gē ge) — starszy brat. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-40",
+    "text": "Który zapis pinyin odpowiada „哥哥”?",
+    "chinese": "哥哥",
+    "choices": [
+      "gē ge",
+      "shuì",
+      "dì",
+      "bái tiān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      40
+    ],
+    "explanation": "哥哥 czytamy gē ge; znaczenie: starszy brat. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-41",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "妹妹",
+    "pinyin": "mèi mei",
+    "choices": [
+      "młodsza siostra",
+      "wszyscy",
+      "młodszy brat",
+      "medycyna"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      41
+    ],
+    "explanation": "妹妹 (mèi mei) — młodsza siostra. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-41",
+    "text": "Który zapis pinyin odpowiada „妹妹”?",
+    "chinese": "妹妹",
+    "choices": [
+      "mèi mei",
+      "yě",
+      "nà ge",
+      "hái zi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      41
+    ],
+    "explanation": "妹妹 czytamy mèi mei; znaczenie: młodsza siostra. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-42",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "弟弟",
+    "pinyin": "dì di",
+    "choices": [
+      "młodszy brat",
+      "tamte; tamci",
+      "telefon",
+      "kraj; państwo"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      42
+    ],
+    "explanation": "弟弟 (dì di) — młodszy brat. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-42",
+    "text": "Który zapis pinyin odpowiada „弟弟”?",
+    "chinese": "弟弟",
+    "choices": [
+      "dì di",
+      "zhèng zài",
+      "nǎ xiē",
+      "miàn tiáor"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      42
+    ],
+    "explanation": "弟弟 czytamy dì di; znaczenie: młodszy brat. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-43",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "孩子",
+    "pinyin": "hái zi",
+    "choices": [
+      "dziecko; dzieci",
+      "gdzie",
+      "pierożki jiaozi",
+      "księgarnia"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      43
+    ],
+    "explanation": "孩子 (hái zi) — dziecko; dzieci. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-43",
+    "text": "Który zapis pinyin odpowiada „孩子”?",
+    "chinese": "孩子",
+    "choices": [
+      "hái zi",
+      "méi shì",
+      "shí jiān",
+      "wèn tí"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      43
+    ],
+    "explanation": "孩子 czytamy hái zi; znaczenie: dziecko; dzieci. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-44",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "小朋友",
+    "pinyin": "xiǎo péng yǒu",
+    "choices": [
+      "dziecko; dzieci",
+      "wieczorem",
+      "piosenka",
+      "lotnisko"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      44
+    ],
+    "explanation": "小朋友 (xiǎo péng yǒu) — dziecko; dzieci. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-44",
+    "text": "Który zapis pinyin odpowiada „小朋友”?",
+    "chinese": "小朋友",
+    "choices": [
+      "xiǎo péng yǒu",
+      "nà xiē",
+      "jiā rén",
+      "nán"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      44
+    ],
+    "explanation": "小朋友 czytamy xiǎo péng yǒu; znaczenie: dziecko; dzieci. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-45",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "家人",
+    "pinyin": "jiā rén",
+    "choices": [
+      "członkowie rodziny; bliscy",
+      "starszy brat",
+      "język chiński (pisany)",
+      "przepraszam, czy mogę zapytać…"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      45
+    ],
+    "explanation": "家人 (jiā rén) — członkowie rodziny; bliscy. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-45",
+    "text": "Który zapis pinyin odpowiada „家人”?",
+    "chinese": "家人",
+    "choices": [
+      "jiā rén",
+      "míng nián",
+      "bāo zi",
+      "qián bian"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      45
+    ],
+    "explanation": "家人 czytamy jiā rén; znaczenie: członkowie rodziny; bliscy. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-46",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "病人",
+    "pinyin": "bìng rén",
+    "choices": [
+      "pacjent; chory",
+      "telefon komórkowy",
+      "uczeń szkoły podstawowej",
+      "kończyć lekcję; po lekcji"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      46
+    ],
+    "explanation": "病人 (bìng rén) — pacjent; chory. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-46",
+    "text": "Który zapis pinyin odpowiada „病人”?",
+    "chinese": "病人",
+    "choices": [
+      "bìng rén",
+      "wǎn",
+      "miàn bāo",
+      "fēn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      46
+    ],
+    "explanation": "病人 czytamy bìng rén; znaczenie: pacjent; chory. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-47",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "售货员",
+    "pinyin": "shòu huò yuán",
+    "choices": [
+      "sprzedawca",
+      "lekcja; zajęcia",
+      "restauracja",
+      "wiedzieć; znać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      47
+    ],
+    "explanation": "售货员 (shòu huò yuán) — sprzedawca. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-47",
+    "text": "Który zapis pinyin odpowiada „售货员”?",
+    "chinese": "售货员",
+    "choices": [
+      "shòu huò yuán",
+      "bìng rén",
+      "zhōng xué shēng",
+      "tiān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      47
+    ],
+    "explanation": "售货员 czytamy shòu huò yuán; znaczenie: sprzedawca. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-48",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "服务员",
+    "pinyin": "fú wù yuán",
+    "choices": [
+      "pracownik obsługi; kelner/kelnerka",
+      "lekarstwo",
+      "minuta; punkt; część",
+      "mówić; powiedzieć"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      48
+    ],
+    "explanation": "服务员 (fú wù yuán) — pracownik obsługi; kelner/kelnerka. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-48",
+    "text": "Który zapis pinyin odpowiada „服务员”?",
+    "chinese": "服务员",
+    "choices": [
+      "fú wù yuán",
+      "shì",
+      "wài bian",
+      "chàng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      48
+    ],
+    "explanation": "服务员 czytamy fú wù yuán; znaczenie: pracownik obsługi; kelner/kelnerka. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-49",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "女士",
+    "pinyin": "nǚ shì",
+    "choices": [
+      "pani; dama",
+      "śnieg",
+      "dzień; niebo; klasyfikator dni",
+      "usłyszeć"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      49
+    ],
+    "explanation": "女士 (nǚ shì) — pani; dama. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-49",
+    "text": "Który zapis pinyin odpowiada „女士”?",
+    "chinese": "女士",
+    "choices": [
+      "nǚ shì",
+      "huǒ chē",
+      "zhī",
+      "jué de"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      49
+    ],
+    "explanation": "女士 czytamy nǚ shì; znaczenie: pani; dama. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-50",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "手机",
+    "pinyin": "shǒu jī",
+    "choices": [
+      "telefon komórkowy",
+      "uczeń szkoły średniej",
+      "mieć zajęcia; uczestniczyć w lekcji",
+      "nowy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      50
+    ],
+    "explanation": "手机 (shǒu jī) — telefon komórkowy. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-50",
+    "text": "Który zapis pinyin odpowiada „手机”?",
+    "chinese": "手机",
+    "choices": [
+      "shǒu jī",
+      "guó",
+      "méi yǒu",
+      "duì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      50
+    ],
+    "explanation": "手机 czytamy shǒu jī; znaczenie: telefon komórkowy. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-51",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "电话",
+    "pinyin": "diàn huà",
+    "choices": [
+      "telefon",
+      "strona; brzeg",
+      "nosić; zakładać (ubranie)",
+      "właśnie być w trakcie"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      51
+    ],
+    "explanation": "电话 (diàn huà) — telefon. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-51",
+    "text": "Który zapis pinyin odpowiada „电话”?",
+    "chinese": "电话",
+    "choices": [
+      "diàn huà",
+      "dà xué",
+      "chuān",
+      "kě yǐ"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      51
+    ],
+    "explanation": "电话 czytamy diàn huà; znaczenie: telefon. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-52",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "牛奶",
+    "pinyin": "niú nǎi",
+    "choices": [
+      "mleko",
+      "klasyfikator dla członków rodziny; kęs",
+      "pytać",
+      "partykuła sugestii/prośby"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      52
+    ],
+    "explanation": "牛奶 (niú nǎi) — mleko. Podręcznik, s. 4."
+  },
+  {
+    "id": "p-52",
+    "text": "Który zapis pinyin odpowiada „牛奶”?",
+    "chinese": "牛奶",
+    "choices": [
+      "niú nǎi",
+      "jiàn",
+      "kàn bìng",
+      "qiān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      52
+    ],
+    "explanation": "牛奶 czytamy niú nǎi; znaczenie: mleko. Podręcznik, s. 4."
+  },
+  {
+    "id": "v-53",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "晚饭",
+    "pinyin": "wǎn fàn",
+    "choices": [
+      "kolacja",
+      "kubek/szklanka; klasyfikator napojów",
+      "dawać; dać",
+      "wszyscy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      53
+    ],
+    "explanation": "晚饭 (wǎn fàn) — kolacja. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-53",
+    "text": "Który zapis pinyin odpowiada „晚饭”?",
+    "chinese": "晚饭",
+    "choices": [
+      "wǎn fàn",
+      "zuò fàn",
+      "zhēn",
+      "zhè biān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      53
+    ],
+    "explanation": "晚饭 czytamy wǎn fàn; znaczenie: kolacja. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-54",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "面条儿",
+    "pinyin": "miàn tiáor",
+    "choices": [
+      "makaron",
+      "widzieć; spotkać",
+      "poprawny; właściwy",
+      "tamte; tamci"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      54
+    ],
+    "explanation": "面条儿 (miàn tiáor) — makaron. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-54",
+    "text": "Który zapis pinyin odpowiada „面条儿”?",
+    "chinese": "面条儿",
+    "choices": [
+      "miàn tiáor",
+      "zhǎo",
+      "hǎo wánr",
+      "xīng qī rì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      54
+    ],
+    "explanation": "面条儿 czytamy miàn tiáor; znaczenie: makaron. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-55",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "饺子",
+    "pinyin": "jiǎo zi",
+    "choices": [
+      "pierożki jiaozi",
+      "bawić się; grać",
+      "drogi",
+      "które; jakie (liczba mnoga)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      55
+    ],
+    "explanation": "饺子 (jiǎo zi) — pierożki jiaozi. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-55",
+    "text": "Który zapis pinyin odpowiada „饺子”?",
+    "chinese": "饺子",
+    "choices": [
+      "jiǎo zi",
+      "gěi",
+      "nín",
+      "nán péng you"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      55
+    ],
+    "explanation": "饺子 czytamy jiǎo zi; znaczenie: pierożki jiaozi. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-56",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "包子",
+    "pinyin": "bāo zi",
+    "choices": [
+      "baozi; bułeczka na parze z nadzieniem",
+      "spać",
+      "sufiks liczby mnogiej (zaimków i niektórych rzeczowników)",
+      "godzina"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      56
+    ],
+    "explanation": "包子 (bāo zi) — baozi; bułeczka na parze z nadzieniem. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-56",
+    "text": "Który zapis pinyin odpowiada „包子”?",
+    "chinese": "包子",
+    "choices": [
+      "bāo zi",
+      "fēi cháng",
+      "tā men",
+      "nǚ shì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      56
+    ],
+    "explanation": "包子 czytamy bāo zi; znaczenie: baozi; bułeczka na parze z nadzieniem. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-57",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "课",
+    "pinyin": "kè",
+    "choices": [
+      "lekcja; zajęcia",
+      "sprzedawać",
+      "tysiąc",
+      "starszy brat"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      57
+    ],
+    "explanation": "课 (kè) — lekcja; zajęcia. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-57",
+    "text": "Który zapis pinyin odpowiada „课”?",
+    "chinese": "课",
+    "choices": [
+      "kè",
+      "men",
+      "zǎo shang",
+      "wǔ fàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      57
+    ],
+    "explanation": "课 czytamy kè; znaczenie: lekcja; zajęcia. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-58",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "事",
+    "pinyin": "shì",
+    "choices": [
+      "sprawa; rzecz",
+      "zajęty",
+      "te; ci",
+      "pani; dama"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      58
+    ],
+    "explanation": "事 (shì) — sprawa; rzecz. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-58",
+    "text": "Który zapis pinyin odpowiada „事”?",
+    "chinese": "事",
+    "choices": [
+      "shì",
+      "tā",
+      "gē ge",
+      "zhōng wén"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      58
+    ],
+    "explanation": "事 czytamy shì; znaczenie: sprawa; rzecz. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-59",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "房间",
+    "pinyin": "fáng jiān",
+    "choices": [
+      "pokój",
+      "tani",
+      "który; które",
+      "baozi; bułeczka na parze z nadzieniem"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      59
+    ],
+    "explanation": "房间 (fáng jiān) — pokój. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-59",
+    "text": "Który zapis pinyin odpowiada „房间”?",
+    "chinese": "房间",
+    "choices": [
+      "fáng jiān",
+      "nǎ lǐ",
+      "diàn huà",
+      "diàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      59
+    ],
+    "explanation": "房间 czytamy fáng jiān; znaczenie: pokój. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-60",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "饭",
+    "pinyin": "fàn",
+    "choices": [
+      "posiłek; ugotowany ryż; jedzenie",
+      "przyjemny dla ucha; ładnie brzmiący",
+      "w dzień; dzień",
+      "lekarstwo"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      60
+    ],
+    "explanation": "饭 (fàn) — posiłek; ugotowany ryż; jedzenie. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-60",
+    "text": "Który zapis pinyin odpowiada „饭”?",
+    "chinese": "饭",
+    "choices": [
+      "fàn",
+      "bái tiān",
+      "chē",
+      "gōng sī"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      60
+    ],
+    "explanation": "饭 czytamy fàn; znaczenie: posiłek; ugotowany ryż; jedzenie. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-61",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "午饭",
+    "pinyin": "wǔ fàn",
+    "choices": [
+      "obiad; lunch",
+      "sto",
+      "starsza siostra",
+      "śnieg"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      61
+    ],
+    "explanation": "午饭 (wǔ fàn) — obiad; lunch. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-61",
+    "text": "Który zapis pinyin odpowiada „午饭”?",
+    "chinese": "午饭",
+    "choices": [
+      "wǔ fàn",
+      "dì di",
+      "bìng",
+      "yí xià"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      61
+    ],
+    "explanation": "午饭 czytamy wǔ fàn; znaczenie: obiad; lunch. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-62",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "歌",
+    "pinyin": "gē",
+    "choices": [
+      "piosenka",
+      "tamten; tamto",
+      "pracownik obsługi; kelner/kelnerka",
+      "uczeń szkoły średniej"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      62
+    ],
+    "explanation": "歌 (gē) — piosenka. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-62",
+    "text": "Który zapis pinyin odpowiada „歌”?",
+    "chinese": "歌",
+    "choices": [
+      "gē",
+      "wǎn fàn",
+      "shū diàn",
+      "xià kè"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      62
+    ],
+    "explanation": "歌 czytamy gē; znaczenie: piosenka. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-63",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "车",
+    "pinyin": "chē",
+    "choices": [
+      "samochód; pojazd",
+      "gdzie",
+      "pierożki jiaozi",
+      "strona; brzeg"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      63
+    ],
+    "explanation": "车 (chē) — samochód; pojazd. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-63",
+    "text": "Który zapis pinyin odpowiada „车”?",
+    "chinese": "车",
+    "choices": [
+      "chē",
+      "wèn tí",
+      "kǒu",
+      "qǐ chuáng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      63
+    ],
+    "explanation": "车 czytamy chē; znaczenie: samochód; pojazd. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-64",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "药",
+    "pinyin": "yào",
+    "choices": [
+      "lekarstwo",
+      "wieczorem",
+      "piosenka",
+      "klasyfikator dla członków rodziny; kęs"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      64
+    ],
+    "explanation": "药 (yào) — lekarstwo. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-65",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "问题",
+    "pinyin": "wèn tí",
+    "choices": [
+      "pytanie; problem",
+      "chłopak (partner)",
+      "deszcz",
+      "kubek/szklanka; klasyfikator napojów"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      65
+    ],
+    "explanation": "问题 (wèn tí) — pytanie; problem. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-65",
+    "text": "Który zapis pinyin odpowiada „问题”?",
+    "chinese": "问题",
+    "choices": [
+      "wèn tí",
+      "qián bian",
+      "dào",
+      "guì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      65
+    ],
+    "explanation": "问题 czytamy wèn tí; znaczenie: pytanie; problem. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-66",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "早饭",
+    "pinyin": "zǎo fàn",
+    "choices": [
+      "śniadanie",
+      "sprzedawca",
+      "student uniwersytetu",
+      "widzieć; spotkać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      66
+    ],
+    "explanation": "早饭 (zǎo fàn) — śniadanie. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-66",
+    "text": "Który zapis pinyin odpowiada „早饭”?",
+    "chinese": "早饭",
+    "choices": [
+      "zǎo fàn",
+      "fēn",
+      "wèn",
+      "nǐ hǎo"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      66
+    ],
+    "explanation": "早饭 czytamy zǎo fàn; znaczenie: śniadanie. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-67",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "面包",
+    "pinyin": "miàn bāo",
+    "choices": [
+      "chleb; pieczywo",
+      "makaron",
+      "księgarnia",
+      "bawić się; grać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      67
+    ],
+    "explanation": "面包 (miàn bāo) — chleb; pieczywo. Podręcznik, s. 5."
+  },
+  {
+    "id": "p-67",
+    "text": "Który zapis pinyin odpowiada „面包”?",
+    "chinese": "面包",
+    "choices": [
+      "miàn bāo",
+      "tiān",
+      "hái",
+      "zhè xiē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      67
+    ],
+    "explanation": "面包 czytamy miàn bāo; znaczenie: chleb; pieczywo. Podręcznik, s. 5."
+  },
+  {
+    "id": "v-68",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "鸡蛋",
+    "pinyin": "jī dàn",
+    "choices": [
+      "jajko kurze",
+      "obiad; lunch",
+      "lotnisko",
+      "spać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      68
+    ],
+    "explanation": "鸡蛋 (jī dàn) — jajko kurze. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-68",
+    "text": "Który zapis pinyin odpowiada „鸡蛋”?",
+    "chinese": "鸡蛋",
+    "choices": [
+      "jī dàn",
+      "chàng",
+      "yǒu diǎnr",
+      "jīn nián"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      68
+    ],
+    "explanation": "鸡蛋 czytamy jī dàn; znaczenie: jajko kurze. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-69",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "火车",
+    "pinyin": "huǒ chē",
+    "choices": [
+      "pociąg",
+      "jajko kurze",
+      "raz; chwilę (po czasowniku)",
+      "sprzedawać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      69
+    ],
+    "explanation": "火车 (huǒ chē) — pociąg. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-69",
+    "text": "Który zapis pinyin odpowiada „火车”?",
+    "chinese": "火车",
+    "choices": [
+      "huǒ chē",
+      "jué de",
+      "liǎng",
+      "zǎo"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      69
+    ],
+    "explanation": "火车 czytamy huǒ chē; znaczenie: pociąg. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-70",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "雨",
+    "pinyin": "yǔ",
+    "choices": [
+      "deszcz",
+      "mężczyzna; męski",
+      "kończyć pracę; wychodzić z pracy",
+      "zajęty"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      70
+    ],
+    "explanation": "雨 (yǔ) — deszcz. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-70",
+    "text": "Który zapis pinyin odpowiada „雨”?",
+    "chinese": "雨",
+    "choices": [
+      "yǔ",
+      "duì",
+      "zhè lǐ",
+      "jiā rén"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      70
+    ],
+    "explanation": "雨 czytamy yǔ; znaczenie: deszcz. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-71",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "雪",
+    "pinyin": "xuě",
+    "choices": [
+      "śnieg",
+      "sklep",
+      "śpiewać",
+      "tani"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      71
+    ],
+    "explanation": "雪 (xuě) — śnieg. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-71",
+    "text": "Który zapis pinyin odpowiada „雪”?",
+    "chinese": "雪",
+    "choices": [
+      "xuě",
+      "kě yǐ",
+      "qù nián",
+      "bāo zi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      71
+    ],
+    "explanation": "雪 czytamy xuě; znaczenie: śnieg. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-72",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "中文",
+    "pinyin": "zhōng wén",
+    "choices": [
+      "język chiński (pisany)",
+      "firma; biuro",
+      "wstawać z łóżka",
+      "przyjemny dla ucha; ładnie brzmiący"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      72
+    ],
+    "explanation": "中文 (zhōng wén) — język chiński (pisany). Podręcznik, s. 6."
+  },
+  {
+    "id": "p-72",
+    "text": "Który zapis pinyin odpowiada „中文”?",
+    "chinese": "中文",
+    "choices": [
+      "zhōng wén",
+      "qiān",
+      "hòu",
+      "miàn bāo"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      72
+    ],
+    "explanation": "中文 czytamy zhōng wén; znaczenie: język chiński (pisany). Podręcznik, s. 6."
+  },
+  {
+    "id": "v-73",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "医",
+    "pinyin": "yī",
+    "choices": [
+      "medycyna",
+      "yuan; jednostka chińskiej waluty",
+      "iść do lekarza; leczyć się",
+      "sto"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      73
+    ],
+    "explanation": "医 (yī) — medycyna. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-73",
+    "text": "Który zapis pinyin odpowiada „医”?",
+    "chinese": "医",
+    "choices": [
+      "yī",
+      "zhè biān",
+      "shòu huò yuán",
+      "xiǎo xué shēng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      73
+    ],
+    "explanation": "医 czytamy yī; znaczenie: medycyna. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-74",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "病",
+    "pinyin": "bìng",
+    "choices": [
+      "chorować; choroba",
+      "mieć zajęcia; uczestniczyć w lekcji",
+      "naprawdę; bardzo",
+      "one; je (kobiety)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      74
+    ],
+    "explanation": "病 (bìng) — chorować; choroba. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-74",
+    "text": "Który zapis pinyin odpowiada „病”?",
+    "chinese": "病",
+    "choices": [
+      "bìng",
+      "xīng qī rì",
+      "shì",
+      "fàn diàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      74
+    ],
+    "explanation": "病 czytamy bìng; znaczenie: chorować; choroba. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-75",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "女",
+    "pinyin": "nǚ",
+    "choices": [
+      "kobieta; żeński",
+      "czytać książki; uczyć się",
+      "smaczny",
+      "gdzie"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      75
+    ],
+    "explanation": "女 (nǚ) — kobieta; żeński. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-75",
+    "text": "Który zapis pinyin odpowiada „女”?",
+    "chinese": "女",
+    "choices": [
+      "nǚ",
+      "nán péng you",
+      "huǒ chē",
+      "jīn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      75
+    ],
+    "explanation": "女 czytamy nǚ; znaczenie: kobieta; żeński. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-76",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "男",
+    "pinyin": "nán",
+    "choices": [
+      "mężczyzna; męski",
+      "uczyć się",
+      "fajny; zabawny; ciekawy",
+      "wieczorem"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      76
+    ],
+    "explanation": "男 (nán) — mężczyzna; męski. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-76",
+    "text": "Który zapis pinyin odpowiada „男”?",
+    "chinese": "男",
+    "choices": [
+      "nán",
+      "nǚ shì",
+      "chāo shì",
+      "xiū xi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      76
+    ],
+    "explanation": "男 czytamy nán; znaczenie: mężczyzna; męski. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-77",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "大学生",
+    "pinyin": "dà xué shēng",
+    "choices": [
+      "student uniwersytetu",
+      "chorować; zachorować",
+      "dwa (przed klasyfikatorem)",
+      "chłopak (partner)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      77
+    ],
+    "explanation": "大学生 (dà xué shēng) — student uniwersytetu. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-77",
+    "text": "Który zapis pinyin odpowiada „大学生”?",
+    "chinese": "大学生",
+    "choices": [
+      "dà xué shēng",
+      "fàn",
+      "zhōng xué",
+      "zhī dào"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      77
+    ],
+    "explanation": "大学生 czytamy dà xué shēng; znaczenie: student uniwersytetu. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-78",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "中学生",
+    "pinyin": "zhōng xué shēng",
+    "choices": [
+      "uczeń szkoły średniej",
+      "też; również",
+      "ten; to",
+      "sprzedawca"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      78
+    ],
+    "explanation": "中学生 (zhōng xué shēng) — uczeń szkoły średniej. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-78",
+    "text": "Który zapis pinyin odpowiada „中学生”?",
+    "chinese": "中学生",
+    "choices": [
+      "zhōng xué shēng",
+      "xuě",
+      "yuán",
+      "mài"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      78
+    ],
+    "explanation": "中学生 czytamy zhōng xué shēng; znaczenie: uczeń szkoły średniej. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-79",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "小学生",
+    "pinyin": "xiǎo xué shēng",
+    "choices": [
+      "uczeń szkoły podstawowej",
+      "bardzo; niezwykle",
+      "niektórzy; niektóre",
+      "makaron"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      79
+    ],
+    "explanation": "小学生 (xiǎo xué shēng) — uczeń szkoły podstawowej. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-79",
+    "text": "Który zapis pinyin odpowiada „小学生”?",
+    "chinese": "小学生",
+    "choices": [
+      "xiǎo xué shēng",
+      "diàn",
+      "xià bān",
+      "hǎo kàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      79
+    ],
+    "explanation": "小学生 czytamy xiǎo xué shēng; znaczenie: uczeń szkoły podstawowej. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-80",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "国",
+    "pinyin": "guó",
+    "choices": [
+      "kraj; państwo",
+      "nie; nie rób; nie chcieć",
+      "dzień miesiąca; numer",
+      "obiad; lunch"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      80
+    ],
+    "explanation": "国 (guó) — kraj; państwo. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-80",
+    "text": "Który zapis pinyin odpowiada „国”?",
+    "chinese": "国",
+    "choices": [
+      "guó",
+      "gōng sī",
+      "kāi chē",
+      "hǎo tīng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      80
+    ],
+    "explanation": "国 czytamy guó; znaczenie: kraj; państwo. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-81",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "超市",
+    "pinyin": "chāo shì",
+    "choices": [
+      "supermarket",
+      "nic się nie stało; w porządku",
+      "dziewczyna (partnerka)",
+      "jajko kurze"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      81
+    ],
+    "explanation": "超市 (chāo shì) — supermarket. Podręcznik, s. 6."
+  },
+  {
+    "id": "p-81",
+    "text": "Który zapis pinyin odpowiada „超市”?",
+    "chinese": "超市",
+    "choices": [
+      "chāo shì",
+      "yí xià",
+      "tīng jiàn",
+      "nǐ men"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      81
+    ],
+    "explanation": "超市 czytamy chāo shì; znaczenie: supermarket. Podręcznik, s. 6."
+  },
+  {
+    "id": "v-82",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "电影院",
+    "pinyin": "diàn yǐng yuàn",
+    "choices": [
+      "kino",
+      "ono/to (o rzeczy lub zwierzęciu)",
+      "pacjent; chory",
+      "kobieta; żeński"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      82
+    ],
+    "explanation": "电影院 (diàn yǐng yuàn) — kino. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-82",
+    "text": "Który zapis pinyin odpowiada „电影院”?",
+    "chinese": "电影院",
+    "choices": [
+      "diàn yǐng yuàn",
+      "xià kè",
+      "hǎo chī",
+      "yǒu de"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      82
+    ],
+    "explanation": "电影院 czytamy diàn yǐng yuàn; znaczenie: kino. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-83",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "店",
+    "pinyin": "diàn",
+    "choices": [
+      "sklep",
+      "one; je (rzeczy/zwierzęta)",
+      "kolacja",
+      "kino"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      83
+    ],
+    "explanation": "店 (diàn) — sklep. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-83",
+    "text": "Który zapis pinyin odpowiada „店”?",
+    "chinese": "店",
+    "choices": [
+      "diàn",
+      "qǐ chuáng",
+      "ba",
+      "wǎn shang"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      83
+    ],
+    "explanation": "店 czytamy diàn; znaczenie: sklep. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-84",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "外",
+    "pinyin": "wài",
+    "choices": [
+      "na zewnątrz; poza",
+      "który; które",
+      "baozi; bułeczka na parze z nadzieniem",
+      "strona; brzeg"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      84
+    ],
+    "explanation": "外 (wài) — na zewnątrz; poza. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-84",
+    "text": "Który zapis pinyin odpowiada „外”?",
+    "chinese": "外",
+    "choices": [
+      "wài",
+      "jiē",
+      "zhè ge",
+      "mèi mei"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      84
+    ],
+    "explanation": "外 czytamy wài; znaczenie: na zewnątrz; poza. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-85",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "书店",
+    "pinyin": "shū diàn",
+    "choices": [
+      "księgarnia",
+      "po; później; z tyłu",
+      "chleb; pieczywo",
+      "yuan; jednostka chińskiej waluty"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      85
+    ],
+    "explanation": "书店 (shū diàn) — księgarnia. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-85",
+    "text": "Który zapis pinyin odpowiada „书店”?",
+    "chinese": "书店",
+    "choices": [
+      "shū diàn",
+      "guì",
+      "nǎ ge",
+      "niú nǎi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      85
+    ],
+    "explanation": "书店 czytamy shū diàn; znaczenie: księgarnia. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-86",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "前",
+    "pinyin": "qián",
+    "choices": [
+      "przód; przed",
+      "starsza siostra",
+      "deszcz",
+      "kubek/szklanka; klasyfikator napojów"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      86
+    ],
+    "explanation": "前 (qián) — przód; przed. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-86",
+    "text": "Który zapis pinyin odpowiada „前”?",
+    "chinese": "前",
+    "choices": [
+      "qián",
+      "nǐ hǎo",
+      "xiǎo shí",
+      "chē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      86
+    ],
+    "explanation": "前 czytamy qián; znaczenie: przód; przed. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-87",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "前边",
+    "pinyin": "qián bian",
+    "choices": [
+      "z przodu; przed",
+      "pracownik obsługi; kelner/kelnerka",
+      "student uniwersytetu",
+      "widzieć; spotkać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      87
+    ],
+    "explanation": "前边 (qián bian) — z przodu; przed. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-87",
+    "text": "Który zapis pinyin odpowiada „前边”?",
+    "chinese": "前边",
+    "choices": [
+      "qián bian",
+      "zhè xiē",
+      "hái zi",
+      "bìng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      87
+    ],
+    "explanation": "前边 czytamy qián bian; znaczenie: z przodu; przed. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-88",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "边",
+    "pinyin": "biān",
+    "choices": [
+      "strona; brzeg",
+      "pokój",
+      "szkoła podstawowa",
+      "uczyć się"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      88
+    ],
+    "explanation": "边 (biān) — strona; brzeg. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-88",
+    "text": "Który zapis pinyin odpowiada „边”?",
+    "chinese": "边",
+    "choices": [
+      "biān",
+      "jīn nián",
+      "miàn tiáor",
+      "shū diàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      88
+    ],
+    "explanation": "边 czytamy biān; znaczenie: strona; brzeg. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-89",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "外边",
+    "pinyin": "wài bian",
+    "choices": [
+      "na zewnątrz",
+      "piosenka",
+      "lotnisko",
+      "spać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      89
+    ],
+    "explanation": "外边 (wài bian) — na zewnątrz. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-89",
+    "text": "Który zapis pinyin odpowiada „外边”?",
+    "chinese": "外边",
+    "choices": [
+      "wài bian",
+      "zǎo",
+      "wèn tí",
+      "yì xiē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      89
+    ],
+    "explanation": "外边 czytamy wài bian; znaczenie: na zewnątrz. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-90",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "饭店",
+    "pinyin": "fàn diàn",
+    "choices": [
+      "restauracja",
+      "medycyna",
+      "odpoczywać",
+      "też; również"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      90
+    ],
+    "explanation": "饭店 (fàn diàn) — restauracja. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-90",
+    "text": "Który zapis pinyin odpowiada „饭店”?",
+    "chinese": "饭店",
+    "choices": [
+      "fàn diàn",
+      "jiā rén",
+      "nán",
+      "yǒu xiē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      90
+    ],
+    "explanation": "饭店 czytamy fàn diàn; znaczenie: restauracja. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-91",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "大学",
+    "pinyin": "dà xué",
+    "choices": [
+      "uniwersytet; szkoła wyższa",
+      "kraj; państwo",
+      "przybyć; dotrzeć do",
+      "bardzo; niezwykle"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      91
+    ],
+    "explanation": "大学 (dà xué) — uniwersytet; szkoła wyższa. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-91",
+    "text": "Który zapis pinyin odpowiada „大学”?",
+    "chinese": "大学",
+    "choices": [
+      "dà xué",
+      "bāo zi",
+      "qián bian",
+      "dú shū"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      91
+    ],
+    "explanation": "大学 czytamy dà xué; znaczenie: uniwersytet; szkoła wyższa. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-92",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "中学",
+    "pinyin": "zhōng xué",
+    "choices": [
+      "szkoła średnia",
+      "uniwersytet; szkoła wyższa",
+      "prowadzić samochód",
+      "nie; nie rób; nie chcieć"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      92
+    ],
+    "explanation": "中学 (zhōng xué) — szkoła średnia. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-92",
+    "text": "Który zapis pinyin odpowiada „中学”?",
+    "chinese": "中学",
+    "choices": [
+      "zhōng xué",
+      "miàn bāo",
+      "bàn",
+      "shuō"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      92
+    ],
+    "explanation": "中学 czytamy zhōng xué; znaczenie: szkoła średnia. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-93",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "小学",
+    "pinyin": "xiǎo xué",
+    "choices": [
+      "szkoła podstawowa",
+      "jin, jednostka masy = 0,5 kg",
+      "uważać; czuć; sądzić",
+      "nic się nie stało; w porządku"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      93
+    ],
+    "explanation": "小学 (xiǎo xué) — szkoła podstawowa. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-93",
+    "text": "Który zapis pinyin odpowiada „小学”?",
+    "chinese": "小学",
+    "choices": [
+      "xiǎo xué",
+      "zhōng xué shēng",
+      "qǐng wèn",
+      "máng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      93
+    ],
+    "explanation": "小学 czytamy xiǎo xué; znaczenie: szkoła podstawowa. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-94",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "公司",
+    "pinyin": "gōng sī",
+    "choices": [
+      "firma; biuro",
+      "nie mieć; nie ma",
+      "odebrać; powitać; spotkać",
+      "ono/to (o rzeczy lub zwierzęciu)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      94
+    ],
+    "explanation": "公司 (gōng sī) — firma; biuro. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-94",
+    "text": "Który zapis pinyin odpowiada „公司”?",
+    "chinese": "公司",
+    "choices": [
+      "gōng sī",
+      "wài bian",
+      "wán",
+      "zài"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      94
+    ],
+    "explanation": "公司 czytamy gōng sī; znaczenie: firma; biuro. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-95",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "机场",
+    "pinyin": "jī chǎng",
+    "choices": [
+      "lotnisko",
+      "iść do pracy; pracować",
+      "ładny; dobrze wyglądać",
+      "one; je (rzeczy/zwierzęta)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      95
+    ],
+    "explanation": "机场 (jī chǎng) — lotnisko. Podręcznik, s. 7."
+  },
+  {
+    "id": "p-95",
+    "text": "Który zapis pinyin odpowiada „机场”?",
+    "chinese": "机场",
+    "choices": [
+      "jī chǎng",
+      "jīn",
+      "shēng bìng",
+      "bǎi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      95
+    ],
+    "explanation": "机场 czytamy jī chǎng; znaczenie: lotnisko. Podręcznik, s. 7."
+  },
+  {
+    "id": "v-96",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "口",
+    "pinyin": "kǒu",
+    "choices": [
+      "klasyfikator dla członków rodziny; kęs",
+      "szukać; znaleźć",
+      "móc; można",
+      "w zeszłym roku"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      96
+    ],
+    "explanation": "口 (kǒu) — klasyfikator dla członków rodziny; kęs. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-96",
+    "text": "Który zapis pinyin odpowiada „口”?",
+    "chinese": "口",
+    "choices": [
+      "kǒu",
+      "xiū xi",
+      "xīn",
+      "nà lǐ"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      96
+    ],
+    "explanation": "口 czytamy kǒu; znaczenie: klasyfikator dla członków rodziny; kęs. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-97",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "一些",
+    "pinyin": "yì xiē",
+    "choices": [
+      "trochę; kilka; niektóre",
+      "chcieć; potrzebować",
+      "cześć; dzień dobry",
+      "dziewczyna (partnerka)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      97
+    ],
+    "explanation": "一些 (yì xiē) — trochę; kilka; niektóre. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-97",
+    "text": "Który zapis pinyin odpowiada „一些”?",
+    "chinese": "一些",
+    "choices": [
+      "yì xiē",
+      "zhī dào",
+      "bú yào",
+      "hào"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      97
+    ],
+    "explanation": "一些 czytamy yì xiē; znaczenie: trochę; kilka; niektóre. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-98",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "分",
+    "pinyin": "fēn",
+    "choices": [
+      "minuta; punkt; część",
+      "iść do szkoły; uczęszczać do szkoły",
+      "wy; was",
+      "członkowie rodziny; bliscy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      98
+    ],
+    "explanation": "分 (fēn) — minuta; punkt; część. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-98",
+    "text": "Który zapis pinyin odpowiada „分”?",
+    "chinese": "分",
+    "choices": [
+      "fēn",
+      "mài",
+      "dà jiā",
+      "nǚ péng you"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      98
+    ],
+    "explanation": "分 czytamy fēn; znaczenie: minuta; punkt; część. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-99",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "半",
+    "pinyin": "bàn",
+    "choices": [
+      "połowa; pół",
+      "też; również",
+      "ten; to",
+      "sprzedawca"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      99
+    ],
+    "explanation": "半 (bàn) — połowa; pół. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-99",
+    "text": "Który zapis pinyin odpowiada „半”?",
+    "chinese": "半",
+    "choices": [
+      "bàn",
+      "hǎo kàn",
+      "nà biān",
+      "fú wù yuán"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      99
+    ],
+    "explanation": "半 czytamy bàn; znaczenie: połowa; pół. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-100",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "只",
+    "pinyin": "zhī",
+    "choices": [
+      "klasyfikator m.in. dla małych zwierząt",
+      "znowu; ponownie; potem",
+      "w przyszłym roku",
+      "pokój"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      100
+    ],
+    "explanation": "只 (zhī) — klasyfikator m.in. dla małych zwierząt. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-100",
+    "text": "Który zapis pinyin odpowiada „只”?",
+    "chinese": "只",
+    "choices": [
+      "zhī",
+      "hǎo tīng",
+      "xīng qī tiān",
+      "fáng jiān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      100
+    ],
+    "explanation": "只 czytamy zhī; znaczenie: klasyfikator m.in. dla małych zwierząt. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-101",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "斤",
+    "pinyin": "jīn",
+    "choices": [
+      "jin, jednostka masy = 0,5 kg",
+      "prefiks liczebników porządkowych",
+      "późny; późno",
+      "śniadanie"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      101
+    ],
+    "explanation": "斤 (jīn) — jin, jednostka masy = 0,5 kg. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-101",
+    "text": "Który zapis pinyin odpowiada „斤”?",
+    "chinese": "斤",
+    "choices": [
+      "jīn",
+      "nǐ men",
+      "jiě jie",
+      "yǔ"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      101
+    ],
+    "explanation": "斤 czytamy jīn; znaczenie: jin, jednostka masy = 0,5 kg. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-102",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "件",
+    "pinyin": "jiàn",
+    "choices": [
+      "klasyfikator dla ubrań/spraw/przedmiotów",
+      "Pan/Pani; ty (forma grzecznościowa)",
+      "młodszy brat",
+      "medycyna"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      102
+    ],
+    "explanation": "件 (jiàn) — klasyfikator dla ubrań/spraw/przedmiotów. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-103",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "元",
+    "pinyin": "yuán",
+    "choices": [
+      "yuan; jednostka chińskiej waluty",
+      "oni; ich (mężczyźni lub grupa mieszana)",
+      "telefon",
+      "kraj; państwo"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      103
+    ],
+    "explanation": "元 (yuán) — yuan; jednostka chińskiej waluty. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-103",
+    "text": "Który zapis pinyin odpowiada „元”?",
+    "chinese": "元",
+    "choices": [
+      "yuán",
+      "wǎn shang",
+      "wǔ fàn",
+      "zhōng xué"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      103
+    ],
+    "explanation": "元 czytamy yuán; znaczenie: yuan; jednostka chińskiej waluty. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-104",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "一点儿",
+    "pinyin": "yì diǎn er",
+    "choices": [
+      "trochę; odrobina",
+      "one; je (rzeczy/zwierzęta)",
+      "kolacja",
+      "kino"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      104
+    ],
+    "explanation": "一点儿 (yì diǎn er) — trochę; odrobina. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-104",
+    "text": "Który zapis pinyin odpowiada „一点儿”?",
+    "chinese": "一点儿",
+    "choices": [
+      "yì diǎn er",
+      "mèi mei",
+      "zhōng wén",
+      "yuán"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      104
+    ],
+    "explanation": "一点儿 czytamy yì diǎn er; znaczenie: trochę; odrobina. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-105",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "一下",
+    "pinyin": "yí xià",
+    "choices": [
+      "raz; chwilę (po czasowniku)",
+      "czas",
+      "pytanie; problem",
+      "klasyfikator m.in. dla małych zwierząt"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      105
+    ],
+    "explanation": "一下 (yí xià) — raz; chwilę (po czasowniku). Podręcznik, s. 8."
+  },
+  {
+    "id": "p-105",
+    "text": "Który zapis pinyin odpowiada „一下”?",
+    "chinese": "一下",
+    "choices": [
+      "yí xià",
+      "niú nǎi",
+      "diàn",
+      "shàng kè"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      105
+    ],
+    "explanation": "一下 czytamy yí xià; znaczenie: raz; chwilę (po czasowniku). Podręcznik, s. 8."
+  },
+  {
+    "id": "v-106",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "杯",
+    "pinyin": "bēi",
+    "choices": [
+      "kubek/szklanka; klasyfikator napojów",
+      "młodsza siostra",
+      "język chiński (pisany)",
+      "nie mieć; nie ma"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      106
+    ],
+    "explanation": "杯 (bēi) — kubek/szklanka; klasyfikator napojów. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-106",
+    "text": "Który zapis pinyin odpowiada „杯”?",
+    "chinese": "杯",
+    "choices": [
+      "bēi",
+      "chē",
+      "gōng sī",
+      "xué"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      106
+    ],
+    "explanation": "杯 czytamy bēi; znaczenie: kubek/szklanka; klasyfikator napojów. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-107",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "一半",
+    "pinyin": "yí bàn",
+    "choices": [
+      "połowa",
+      "członkowie rodziny; bliscy",
+      "chorować; choroba",
+      "odpoczywać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      107
+    ],
+    "explanation": "一半 (yí bàn) — połowa. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-107",
+    "text": "Który zapis pinyin odpowiada „一半”?",
+    "chinese": "一半",
+    "choices": [
+      "yí bàn",
+      "bìng",
+      "yí xià",
+      "shàng xué"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      107
+    ],
+    "explanation": "一半 czytamy yí bàn; znaczenie: połowa. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-108",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "有些",
+    "pinyin": "yǒu xiē",
+    "choices": [
+      "niektóre; trochę",
+      "sprawa; rzecz",
+      "uniwersytet; szkoła wyższa",
+      "szukać; znaleźć"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      108
+    ],
+    "explanation": "有些 (yǒu xiē) — niektóre; trochę. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-108",
+    "text": "Który zapis pinyin odpowiada „有些”?",
+    "chinese": "有些",
+    "choices": [
+      "yǒu xiē",
+      "shū diàn",
+      "shàng bān",
+      "pián yi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      108
+    ],
+    "explanation": "有些 czytamy yǒu xiē; znaczenie: niektóre; trochę. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-109",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "天",
+    "pinyin": "tiān",
+    "choices": [
+      "dzień; niebo; klasyfikator dni",
+      "deszcz",
+      "kubek/szklanka; klasyfikator napojów",
+      "usłyszeć"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      109
+    ],
+    "explanation": "天 (tiān) — dzień; niebo; klasyfikator dni. Podręcznik, s. 8."
+  },
+  {
+    "id": "p-109",
+    "text": "Który zapis pinyin odpowiada „天”?",
+    "chinese": "天",
+    "choices": [
+      "tiān",
+      "kǒu",
+      "shuì",
+      "dì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      109
+    ],
+    "explanation": "天 czytamy tiān; znaczenie: dzień; niebo; klasyfikator dni. Podręcznik, s. 8."
+  },
+  {
+    "id": "v-110",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "请问",
+    "pinyin": "qǐng wèn",
+    "choices": [
+      "przepraszam, czy mogę zapytać…",
+      "śnieg",
+      "dzień; niebo; klasyfikator dni",
+      "iść do szkoły; uczęszczać do szkoły"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      110
+    ],
+    "explanation": "请问 (qǐng wèn) — przepraszam, czy mogę zapytać…. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-110",
+    "text": "Który zapis pinyin odpowiada „请问”?",
+    "chinese": "请问",
+    "choices": [
+      "qǐng wèn",
+      "yí bàn",
+      "yě",
+      "nà ge"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      110
+    ],
+    "explanation": "请问 czytamy qǐng wèn; znaczenie: przepraszam, czy mogę zapytać…. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-111",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "没有",
+    "pinyin": "méi yǒu",
+    "choices": [
+      "nie mieć; nie ma",
+      "uczeń szkoły średniej",
+      "kończyć lekcję; po lekcji",
+      "naprawdę; bardzo"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      111
+    ],
+    "explanation": "没有 (méi yǒu) — nie mieć; nie ma. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-111",
+    "text": "Który zapis pinyin odpowiada „没有”?",
+    "chinese": "没有",
+    "choices": [
+      "méi yǒu",
+      "dú shū",
+      "zhèng zài",
+      "nǎ xiē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      111
+    ],
+    "explanation": "没有 czytamy méi yǒu; znaczenie: nie mieć; nie ma. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-112",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "休息",
+    "pinyin": "xiū xi",
+    "choices": [
+      "odpoczywać",
+      "strona; brzeg",
+      "wiedzieć; znać",
+      "znowu; ponownie; potem"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      112
+    ],
+    "explanation": "休息 (xiū xi) — odpoczywać. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-112",
+    "text": "Który zapis pinyin odpowiada „休息”?",
+    "chinese": "休息",
+    "choices": [
+      "xiū xi",
+      "shuō",
+      "méi shì",
+      "shí jiān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      112
+    ],
+    "explanation": "休息 czytamy xiū xi; znaczenie: odpoczywać. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-113",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "做饭",
+    "pinyin": "zuò fàn",
+    "choices": [
+      "gotować; przygotowywać posiłek",
+      "klasyfikator dla członków rodziny; kęs",
+      "mówić; powiedzieć",
+      "prefiks liczebników porządkowych"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      113
+    ],
+    "explanation": "做饭 (zuò fàn) — gotować; przygotowywać posiłek. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-113",
+    "text": "Który zapis pinyin odpowiada „做饭”?",
+    "chinese": "做饭",
+    "choices": [
+      "zuò fàn",
+      "máng",
+      "nà xiē",
+      "xiǎo péng yǒu"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      113
+    ],
+    "explanation": "做饭 czytamy zuò fàn; znaczenie: gotować; przygotowywać posiłek. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-114",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "下班",
+    "pinyin": "xià bān",
+    "choices": [
+      "kończyć pracę; wychodzić z pracy",
+      "kubek/szklanka; klasyfikator napojów",
+      "usłyszeć",
+      "Pan/Pani; ty (forma grzecznościowa)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      114
+    ],
+    "explanation": "下班 (xià bān) — kończyć pracę; wychodzić z pracy. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-114",
+    "text": "Który zapis pinyin odpowiada „下班”?",
+    "chinese": "下班",
+    "choices": [
+      "xià bān",
+      "zài",
+      "míng nián",
+      "jiǎo zi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      114
+    ],
+    "explanation": "下班 czytamy xià bān; znaczenie: kończyć pracę; wychodzić z pracy. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-115",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "见",
+    "pinyin": "jiàn",
+    "choices": [
+      "widzieć; spotkać",
+      "śpiewać",
+      "drogi",
+      "które; jakie (liczba mnoga)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      115
+    ],
+    "explanation": "见 (jiàn) — widzieć; spotkać. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-115",
+    "text": "Który zapis pinyin odpowiada „见”?",
+    "chinese": "见",
+    "choices": [
+      "jiàn",
+      "bǎi",
+      "wǎn",
+      "zǎo fàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      115
+    ],
+    "explanation": "见 czytamy jiàn; znaczenie: widzieć; spotkać. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-116",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "上课",
+    "pinyin": "shàng kè",
+    "choices": [
+      "mieć zajęcia; uczestniczyć w lekcji",
+      "nosić; zakładać (ubranie)",
+      "właśnie być w trakcie",
+      "w tym roku"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      116
+    ],
+    "explanation": "上课 (shàng kè) — mieć zajęcia; uczestniczyć w lekcji. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-116",
+    "text": "Który zapis pinyin odpowiada „上课”?",
+    "chinese": "上课",
+    "choices": [
+      "shàng kè",
+      "nà lǐ",
+      "bìng rén",
+      "dà xué shēng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      116
+    ],
+    "explanation": "上课 czytamy shàng kè; znaczenie: mieć zajęcia; uczestniczyć w lekcji. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-117",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "下课",
+    "pinyin": "xià kè",
+    "choices": [
+      "kończyć lekcję; po lekcji",
+      "pytać",
+      "partykuła sugestii/prośby",
+      "czas"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      117
+    ],
+    "explanation": "下课 (xià kè) — kończyć lekcję; po lekcji. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-117",
+    "text": "Który zapis pinyin odpowiada „下课”?",
+    "chinese": "下课",
+    "choices": [
+      "xià kè",
+      "hào",
+      "kè",
+      "biān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      117
+    ],
+    "explanation": "下课 czytamy xià kè; znaczenie: kończyć lekcję; po lekcji. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-118",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "上班",
+    "pinyin": "shàng bān",
+    "choices": [
+      "iść do pracy; pracować",
+      "dawać; dać",
+      "wszyscy",
+      "młodsza siostra"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      118
+    ],
+    "explanation": "上班 (shàng bān) — iść do pracy; pracować. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-118",
+    "text": "Który zapis pinyin odpowiada „上班”?",
+    "chinese": "上班",
+    "choices": [
+      "shàng bān",
+      "nǚ péng you",
+      "jī dàn",
+      "bàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      118
+    ],
+    "explanation": "上班 czytamy shàng bān; znaczenie: iść do pracy; pracować. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-119",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "到",
+    "pinyin": "dào",
+    "choices": [
+      "przybyć; dotrzeć do",
+      "poprawny; właściwy",
+      "tamte; tamci",
+      "telefon komórkowy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      119
+    ],
+    "explanation": "到 (dào) — przybyć; dotrzeć do. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-119",
+    "text": "Który zapis pinyin odpowiada „到”?",
+    "chinese": "到",
+    "choices": [
+      "dào",
+      "fú wù yuán",
+      "xiǎo xué shēng",
+      "qǐng wèn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      119
+    ],
+    "explanation": "到 czytamy dào; znaczenie: przybyć; dotrzeć do. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-120",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "读书",
+    "pinyin": "dú shū",
+    "choices": [
+      "czytać książki; uczyć się",
+      "przyjemny dla ucha; ładnie brzmiący",
+      "w dzień; dzień",
+      "samochód; pojazd"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      120
+    ],
+    "explanation": "读书 (dú shū) — czytać książki; uczyć się. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-120",
+    "text": "Który zapis pinyin odpowiada „读书”?",
+    "chinese": "读书",
+    "choices": [
+      "dú shū",
+      "fáng jiān",
+      "fàn diàn",
+      "chuān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      120
+    ],
+    "explanation": "读书 czytamy dú shū; znaczenie: czytać książki; uczyć się. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-121",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "唱",
+    "pinyin": "chàng",
+    "choices": [
+      "śpiewać",
+      "sufiks liczby mnogiej (zaimków i niektórych rzeczowników)",
+      "godzina",
+      "lekarstwo"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      121
+    ],
+    "explanation": "唱 (chàng) — śpiewać. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-121",
+    "text": "Który zapis pinyin odpowiada „唱”?",
+    "chinese": "唱",
+    "choices": [
+      "chàng",
+      "yǔ",
+      "jīn",
+      "kàn bìng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      121
+    ],
+    "explanation": "唱 czytamy chàng; znaczenie: śpiewać. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-122",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "玩",
+    "pinyin": "wán",
+    "choices": [
+      "bawić się; grać",
+      "tysiąc",
+      "starszy brat",
+      "śnieg"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      122
+    ],
+    "explanation": "玩 (wán) — bawić się; grać. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-122",
+    "text": "Który zapis pinyin odpowiada „玩”?",
+    "chinese": "玩",
+    "choices": [
+      "wán",
+      "chāo shì",
+      "xiū xi",
+      "zhēn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      122
+    ],
+    "explanation": "玩 czytamy wán; znaczenie: bawić się; grać. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-123",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "穿",
+    "pinyin": "chuān",
+    "choices": [
+      "nosić; zakładać (ubranie)",
+      "te; ci",
+      "pani; dama",
+      "uczeń szkoły średniej"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      123
+    ],
+    "explanation": "穿 (chuān) — nosić; zakładać (ubranie). Podręcznik, s. 9."
+  },
+  {
+    "id": "p-123",
+    "text": "Który zapis pinyin odpowiada „穿”?",
+    "chinese": "穿",
+    "choices": [
+      "chuān",
+      "zhōng xué",
+      "zhǎo",
+      "hǎo wánr"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      123
+    ],
+    "explanation": "穿 czytamy chuān; znaczenie: nosić; zakładać (ubranie). Podręcznik, s. 9."
+  },
+  {
+    "id": "v-124",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "知道",
+    "pinyin": "zhī dào",
+    "choices": [
+      "wiedzieć; znać",
+      "który; które",
+      "baozi; bułeczka na parze z nadzieniem",
+      "strona; brzeg"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      124
+    ],
+    "explanation": "知道 (zhī dào) — wiedzieć; znać. Podręcznik, s. 9."
+  },
+  {
+    "id": "p-124",
+    "text": "Który zapis pinyin odpowiada „知道”?",
+    "chinese": "知道",
+    "choices": [
+      "zhī dào",
+      "yuán",
+      "gěi",
+      "nín"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      124
+    ],
+    "explanation": "知道 czytamy zhī dào; znaczenie: wiedzieć; znać. Podręcznik, s. 9."
+  },
+  {
+    "id": "v-125",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "找",
+    "pinyin": "zhǎo",
+    "choices": [
+      "szukać; znaleźć",
+      "w dzień; dzień",
+      "samochód; pojazd",
+      "klasyfikator dla członków rodziny; kęs"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      125
+    ],
+    "explanation": "找 (zhǎo) — szukać; znaleźć. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-125",
+    "text": "Który zapis pinyin odpowiada „找”?",
+    "chinese": "找",
+    "choices": [
+      "zhǎo",
+      "xià bān",
+      "fēi cháng",
+      "tā men"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      125
+    ],
+    "explanation": "找 czytamy zhǎo; znaczenie: szukać; znaleźć. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-126",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "开车",
+    "pinyin": "kāi chē",
+    "choices": [
+      "prowadzić samochód",
+      "starsza siostra",
+      "deszcz",
+      "kubek/szklanka; klasyfikator napojów"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      126
+    ],
+    "explanation": "开车 (kāi chē) — prowadzić samochód. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-126",
+    "text": "Który zapis pinyin odpowiada „开车”?",
+    "chinese": "开车",
+    "choices": [
+      "kāi chē",
+      "xué",
+      "men",
+      "zǎo shang"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      126
+    ],
+    "explanation": "开车 czytamy kāi chē; znaczenie: prowadzić samochód. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-127",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "学",
+    "pinyin": "xué",
+    "choices": [
+      "uczyć się",
+      "makaron",
+      "sklep",
+      "bawić się; grać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      127
+    ],
+    "explanation": "学 (xué) — uczyć się. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-127",
+    "text": "Który zapis pinyin odpowiada „学”?",
+    "chinese": "学",
+    "choices": [
+      "xué",
+      "shàng xué",
+      "tā",
+      "gē ge"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      127
+    ],
+    "explanation": "学 czytamy xué; znaczenie: uczyć się. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-128",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "起床",
+    "pinyin": "qǐ chuáng",
+    "choices": [
+      "wstawać z łóżka",
+      "pierożki jiaozi",
+      "księgarnia",
+      "bawić się; grać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      128
+    ],
+    "explanation": "起床 (qǐ chuáng) — wstawać z łóżka. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-128",
+    "text": "Który zapis pinyin odpowiada „起床”?",
+    "chinese": "起床",
+    "choices": [
+      "qǐ chuáng",
+      "pián yi",
+      "nǎ lǐ",
+      "diàn huà"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      128
+    ],
+    "explanation": "起床 czytamy qǐ chuáng; znaczenie: wstawać z łóżka. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-129",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "睡",
+    "pinyin": "shuì",
+    "choices": [
+      "spać",
+      "piosenka",
+      "lotnisko",
+      "pytać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      129
+    ],
+    "explanation": "睡 (shuì) — spać. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-129",
+    "text": "Który zapis pinyin odpowiada „睡”?",
+    "chinese": "睡",
+    "choices": [
+      "shuì",
+      "dì",
+      "bái tiān",
+      "gē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      129
+    ],
+    "explanation": "睡 czytamy shuì; znaczenie: spać. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-130",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "问",
+    "pinyin": "wèn",
+    "choices": [
+      "pytać",
+      "pociąg",
+      "raz; chwilę (po czasowniku)",
+      "dawać; dać"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      130
+    ],
+    "explanation": "问 (wèn) — pytać. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-130",
+    "text": "Który zapis pinyin odpowiada „问”?",
+    "chinese": "问",
+    "choices": [
+      "wèn",
+      "nà ge",
+      "dì di",
+      "yī"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      130
+    ],
+    "explanation": "问 czytamy wèn; znaczenie: pytać. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-131",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "说",
+    "pinyin": "shuō",
+    "choices": [
+      "mówić; powiedzieć",
+      "mężczyzna; męski",
+      "kończyć pracę; wychodzić z pracy",
+      "poprawny; właściwy"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      131
+    ],
+    "explanation": "说 (shuō) — mówić; powiedzieć. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-131",
+    "text": "Który zapis pinyin odpowiada „说”?",
+    "chinese": "说",
+    "choices": [
+      "shuō",
+      "nǎ xiē",
+      "wǎn fàn",
+      "wài"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      131
+    ],
+    "explanation": "说 czytamy shuō; znaczenie: mówić; powiedzieć. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-132",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "要",
+    "pinyin": "yào",
+    "choices": [
+      "chcieć; potrzebować",
+      "sklep",
+      "śpiewać",
+      "drogi"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      132
+    ],
+    "explanation": "要 (yào) — chcieć; potrzebować. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-133",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "觉得",
+    "pinyin": "jué de",
+    "choices": [
+      "uważać; czuć; sądzić",
+      "firma; biuro",
+      "wstawać z łóżka",
+      "sufiks liczby mnogiej (zaimków i niektórych rzeczowników)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      133
+    ],
+    "explanation": "觉得 (jué de) — uważać; czuć; sądzić. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-133",
+    "text": "Który zapis pinyin odpowiada „觉得”?",
+    "chinese": "觉得",
+    "choices": [
+      "jué de",
+      "xiǎo péng yǒu",
+      "nǚ",
+      "bēi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      133
+    ],
+    "explanation": "觉得 czytamy jué de; znaczenie: uważać; czuć; sądzić. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-134",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "生病",
+    "pinyin": "shēng bìng",
+    "choices": [
+      "chorować; zachorować",
+      "gotować; przygotowywać posiłek",
+      "zajęty",
+      "te; ci"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      134
+    ],
+    "explanation": "生病 (shēng bìng) — chorować; zachorować. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-134",
+    "text": "Który zapis pinyin odpowiada „生病”?",
+    "chinese": "生病",
+    "choices": [
+      "shēng bìng",
+      "jiǎo zi",
+      "qián",
+      "shàng bān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      134
+    ],
+    "explanation": "生病 czytamy shēng bìng; znaczenie: chorować; zachorować. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-135",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "看病",
+    "pinyin": "kàn bìng",
+    "choices": [
+      "iść do lekarza; leczyć się",
+      "gotować; przygotowywać posiłek",
+      "zajęty",
+      "te; ci"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      135
+    ],
+    "explanation": "看病 (kàn bìng) — iść do lekarza; leczyć się. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-135",
+    "text": "Który zapis pinyin odpowiada „看病”?",
+    "chinese": "看病",
+    "choices": [
+      "kàn bìng",
+      "zǎo fàn",
+      "yì xiē",
+      "shuì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      135
+    ],
+    "explanation": "看病 czytamy kàn bìng; znaczenie: iść do lekarza; leczyć się. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-136",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "卖",
+    "pinyin": "mài",
+    "choices": [
+      "sprzedawać",
+      "czytać książki; uczyć się",
+      "tani",
+      "który; które"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      136
+    ],
+    "explanation": "卖 (mài) — sprzedawać. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-136",
+    "text": "Który zapis pinyin odpowiada „卖”?",
+    "chinese": "卖",
+    "choices": [
+      "mài",
+      "dà xué shēng",
+      "yǒu xiē",
+      "hái"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      136
+    ],
+    "explanation": "卖 czytamy mài; znaczenie: sprzedawać. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-137",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "给",
+    "pinyin": "gěi",
+    "choices": [
+      "dawać; dać",
+      "uczyć się",
+      "przyjemny dla ucha; ładnie brzmiący",
+      "w dzień; dzień"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      137
+    ],
+    "explanation": "给 (gěi) — dawać; dać. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-137",
+    "text": "Który zapis pinyin odpowiada „给”?",
+    "chinese": "给",
+    "choices": [
+      "gěi",
+      "biān",
+      "dú shū",
+      "yǒu diǎnr"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      137
+    ],
+    "explanation": "给 czytamy gěi; znaczenie: dawać; dać. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-138",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "听见",
+    "pinyin": "tīng jiàn",
+    "choices": [
+      "usłyszeć",
+      "chorować; zachorować",
+      "sto",
+      "starsza siostra"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      138
+    ],
+    "explanation": "听见 (tīng jiàn) — usłyszeć. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-138",
+    "text": "Który zapis pinyin odpowiada „听见”?",
+    "chinese": "听见",
+    "choices": [
+      "tīng jiàn",
+      "bàn",
+      "shuō",
+      "liǎng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      138
+    ],
+    "explanation": "听见 czytamy tīng jiàn; znaczenie: usłyszeć. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-139",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "上学",
+    "pinyin": "shàng xué",
+    "choices": [
+      "iść do szkoły; uczęszczać do szkoły",
+      "jeszcze; nadal",
+      "tamten; tamto",
+      "pracownik obsługi; kelner/kelnerka"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      139
+    ],
+    "explanation": "上学 (shàng xué) — iść do szkoły; uczęszczać do szkoły. Podręcznik, s. 10."
+  },
+  {
+    "id": "p-139",
+    "text": "Który zapis pinyin odpowiada „上学”?",
+    "chinese": "上学",
+    "choices": [
+      "shàng xué",
+      "qǐng wèn",
+      "duì",
+      "zhè lǐ"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      139
+    ],
+    "explanation": "上学 czytamy shàng xué; znaczenie: iść do szkoły; uczęszczać do szkoły. Podręcznik, s. 10."
+  },
+  {
+    "id": "v-140",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "接",
+    "pinyin": "jiē",
+    "choices": [
+      "odebrać; powitać; spotkać",
+      "fajny; zabawny; ciekawy",
+      "wieczorem",
+      "piosenka"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      140
+    ],
+    "explanation": "接 (jiē) — odebrać; powitać; spotkać. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-140",
+    "text": "Który zapis pinyin odpowiada „接”?",
+    "chinese": "接",
+    "choices": [
+      "jiē",
+      "wán",
+      "kě yǐ",
+      "qù nián"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      140
+    ],
+    "explanation": "接 czytamy jiē; znaczenie: odebrać; powitać; spotkać. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-141",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "也",
+    "pinyin": "yě",
+    "choices": [
+      "też; również",
+      "fajny; zabawny; ciekawy",
+      "wieczorem",
+      "piosenka"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      141
+    ],
+    "explanation": "也 (yě) — też; również. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-141",
+    "text": "Który zapis pinyin odpowiada „也”?",
+    "chinese": "也",
+    "choices": [
+      "yě",
+      "shēng bìng",
+      "qiān",
+      "hòu"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      141
+    ],
+    "explanation": "也 czytamy yě; znaczenie: też; również. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-142",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "还",
+    "pinyin": "hái",
+    "choices": [
+      "jeszcze; nadal",
+      "dwa (przed klasyfikatorem)",
+      "chłopak (partner)",
+      "pociąg"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      142
+    ],
+    "explanation": "还 (hái) — jeszcze; nadal. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-142",
+    "text": "Który zapis pinyin odpowiada „还”?",
+    "chinese": "还",
+    "choices": [
+      "hái",
+      "zhēn",
+      "zhè biān",
+      "shòu huò yuán"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      142
+    ],
+    "explanation": "还 czytamy hái; znaczenie: jeszcze; nadal. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-143",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "忙",
+    "pinyin": "máng",
+    "choices": [
+      "zajęty",
+      "ten; to",
+      "sprzedawca",
+      "mężczyzna; męski"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      143
+    ],
+    "explanation": "忙 (máng) — zajęty. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-143",
+    "text": "Który zapis pinyin odpowiada „忙”?",
+    "chinese": "忙",
+    "choices": [
+      "máng",
+      "hǎo wánr",
+      "xīng qī rì",
+      "shì"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      143
+    ],
+    "explanation": "忙 czytamy máng; znaczenie: zajęty. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-144",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "对",
+    "pinyin": "duì",
+    "choices": [
+      "poprawny; właściwy",
+      "niektórzy; niektóre",
+      "makaron",
+      "sklep"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      144
+    ],
+    "explanation": "对 (duì) — poprawny; właściwy. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-144",
+    "text": "Który zapis pinyin odpowiada „对”?",
+    "chinese": "对",
+    "choices": [
+      "duì",
+      "nín",
+      "nán péng you",
+      "huǒ chē"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      144
+    ],
+    "explanation": "对 czytamy duì; znaczenie: poprawny; właściwy. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-145",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "新",
+    "pinyin": "xīn",
+    "choices": [
+      "nowy",
+      "dzień miesiąca; numer",
+      "obiad; lunch",
+      "firma; biuro"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      145
+    ],
+    "explanation": "新 (xīn) — nowy. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-145",
+    "text": "Który zapis pinyin odpowiada „新”?",
+    "chinese": "新",
+    "choices": [
+      "xīn",
+      "tā men",
+      "nǚ shì",
+      "guó"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      145
+    ],
+    "explanation": "新 czytamy xīn; znaczenie: nowy. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-146",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "真",
+    "pinyin": "zhēn",
+    "choices": [
+      "naprawdę; bardzo",
+      "pacjent; chory",
+      "kobieta; żeński",
+      "gotować; przygotowywać posiłek"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      146
+    ],
+    "explanation": "真 (zhēn) — naprawdę; bardzo. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-146",
+    "text": "Który zapis pinyin odpowiada „真”?",
+    "chinese": "真",
+    "choices": [
+      "zhēn",
+      "zǎo shang",
+      "fàn",
+      "dà xué"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      146
+    ],
+    "explanation": "真 czytamy zhēn; znaczenie: naprawdę; bardzo. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-147",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "好看",
+    "pinyin": "hǎo kàn",
+    "choices": [
+      "ładny; dobrze wyglądać",
+      "pacjent; chory",
+      "kobieta; żeński",
+      "gotować; przygotowywać posiłek"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      147
+    ],
+    "explanation": "好看 (hǎo kàn) — ładny; dobrze wyglądać. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-147",
+    "text": "Który zapis pinyin odpowiada „好看”?",
+    "chinese": "好看",
+    "choices": [
+      "hǎo kàn",
+      "gē ge",
+      "xuě",
+      "jiàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      147
+    ],
+    "explanation": "好看 czytamy hǎo kàn; znaczenie: ładny; dobrze wyglądać. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-148",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "非常",
+    "pinyin": "fēi cháng",
+    "choices": [
+      "bardzo; niezwykle",
+      "posiłek; ugotowany ryż; jedzenie",
+      "szkoła podstawowa",
+      "uczyć się"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      148
+    ],
+    "explanation": "非常 (fēi cháng) — bardzo; niezwykle. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-148",
+    "text": "Który zapis pinyin odpowiada „非常”?",
+    "chinese": "非常",
+    "choices": [
+      "fēi cháng",
+      "diàn huà",
+      "diàn yǐng yuàn",
+      "zuò fàn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      148
+    ],
+    "explanation": "非常 czytamy fēi cháng; znaczenie: bardzo; niezwykle. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-149",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "好吃",
+    "pinyin": "hǎo chī",
+    "choices": [
+      "smaczny",
+      "posiłek; ugotowany ryż; jedzenie",
+      "szkoła podstawowa",
+      "uczyć się"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      149
+    ],
+    "explanation": "好吃 (hǎo chī) — smaczny. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-149",
+    "text": "Który zapis pinyin odpowiada „好吃”?",
+    "chinese": "好吃",
+    "choices": [
+      "hǎo chī",
+      "gē",
+      "xiǎo xué",
+      "zhǎo"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      149
+    ],
+    "explanation": "好吃 czytamy hǎo chī; znaczenie: smaczny. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-150",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "便宜",
+    "pinyin": "pián yi",
+    "choices": [
+      "tani",
+      "chleb; pieczywo",
+      "klasyfikator dla ubrań/spraw/przedmiotów",
+      "chorować; zachorować"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      150
+    ],
+    "explanation": "便宜 (pián yi) — tani. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-150",
+    "text": "Który zapis pinyin odpowiada „便宜”?",
+    "chinese": "便宜",
+    "choices": [
+      "pián yi",
+      "yī",
+      "yì diǎn er",
+      "gěi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      150
+    ],
+    "explanation": "便宜 czytamy pián yi; znaczenie: tani. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-151",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "贵",
+    "pinyin": "guì",
+    "choices": [
+      "drogi",
+      "chorować; choroba",
+      "odpoczywać",
+      "też; również"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      151
+    ],
+    "explanation": "贵 (guì) — drogi. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-151",
+    "text": "Który zapis pinyin odpowiada „贵”?",
+    "chinese": "贵",
+    "choices": [
+      "guì",
+      "wài",
+      "shàng kè",
+      "fēi cháng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      151
+    ],
+    "explanation": "贵 czytamy guì; znaczenie: drogi. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-152",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "正在",
+    "pinyin": "zhèng zài",
+    "choices": [
+      "właśnie być w trakcie",
+      "supermarket",
+      "przybyć; dotrzeć do",
+      "bardzo; niezwykle"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      152
+    ],
+    "explanation": "正在 (zhèng zài) — właśnie być w trakcie. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-152",
+    "text": "Który zapis pinyin odpowiada „正在”?",
+    "chinese": "正在",
+    "choices": [
+      "zhèng zài",
+      "jī chǎng",
+      "xué",
+      "ba"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      152
+    ],
+    "explanation": "正在 czytamy zhèng zài; znaczenie: właśnie być w trakcie. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-153",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "有点儿",
+    "pinyin": "yǒu diǎnr",
+    "choices": [
+      "trochę; nieco",
+      "supermarket",
+      "przybyć; dotrzeć do",
+      "bardzo; niezwykle"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      153
+    ],
+    "explanation": "有点儿 (yǒu diǎnr) — trochę; nieco. Podręcznik, s. 11."
+  },
+  {
+    "id": "p-153",
+    "text": "Który zapis pinyin odpowiada „有点儿”?",
+    "chinese": "有点儿",
+    "choices": [
+      "yǒu diǎnr",
+      "bēi",
+      "shàng xué",
+      "zhè ge"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      153
+    ],
+    "explanation": "有点儿 czytamy yǒu diǎnr; znaczenie: trochę; nieco. Podręcznik, s. 11."
+  },
+  {
+    "id": "v-154",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "再",
+    "pinyin": "zài",
+    "choices": [
+      "znowu; ponownie; potem",
+      "jin, jednostka masy = 0,5 kg",
+      "uważać; czuć; sądzić",
+      "dwa (przed klasyfikatorem)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      154
+    ],
+    "explanation": "再 (zài) — znowu; ponownie; potem. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-154",
+    "text": "Który zapis pinyin odpowiada „再”?",
+    "chinese": "再",
+    "choices": [
+      "zài",
+      "shàng bān",
+      "pián yi",
+      "nǎ ge"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      154
+    ],
+    "explanation": "再 czytamy zài; znaczenie: znowu; ponownie; potem. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-155",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "可以",
+    "pinyin": "kě yǐ",
+    "choices": [
+      "móc; można",
+      "nie mieć; nie ma",
+      "odebrać; powitać; spotkać",
+      "ten; to"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      155
+    ],
+    "explanation": "可以 (kě yǐ) — móc; można. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-155",
+    "text": "Który zapis pinyin odpowiada „可以”?",
+    "chinese": "可以",
+    "choices": [
+      "kě yǐ",
+      "shuì",
+      "nǐ hǎo",
+      "xiǎo shí"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      155
+    ],
+    "explanation": "可以 czytamy kě yǐ; znaczenie: móc; można. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-156",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "不要",
+    "pinyin": "bú yào",
+    "choices": [
+      "nie; nie rób; nie chcieć",
+      "iść do pracy; pracować",
+      "ładny; dobrze wyglądać",
+      "niektórzy; niektóre"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      156
+    ],
+    "explanation": "不要 (bú yào) — nie; nie rób; nie chcieć. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-156",
+    "text": "Który zapis pinyin odpowiada „不要”?",
+    "chinese": "不要",
+    "choices": [
+      "bú yào",
+      "yě",
+      "zhè xiē",
+      "hái zi"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      156
+    ],
+    "explanation": "不要 czytamy bú yào; znaczenie: nie; nie rób; nie chcieć. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-157",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "好玩儿",
+    "pinyin": "hǎo wánr",
+    "choices": [
+      "fajny; zabawny; ciekawy",
+      "szukać; znaleźć",
+      "móc; można",
+      "dzień miesiąca; numer"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      157
+    ],
+    "explanation": "好玩儿 (hǎo wánr) — fajny; zabawny; ciekawy. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-157",
+    "text": "Który zapis pinyin odpowiada „好玩儿”?",
+    "chinese": "好玩儿",
+    "choices": [
+      "hǎo wánr",
+      "zhèng zài",
+      "jīn nián",
+      "miàn tiáor"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      157
+    ],
+    "explanation": "好玩儿 czytamy hǎo wánr; znaczenie: fajny; zabawny; ciekawy. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-158",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "好听",
+    "pinyin": "hǎo tīng",
+    "choices": [
+      "przyjemny dla ucha; ładnie brzmiący",
+      "chcieć; potrzebować",
+      "nic się nie stało; w porządku",
+      "dziewczyna (partnerka)"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      158
+    ],
+    "explanation": "好听 (hǎo tīng) — przyjemny dla ucha; ładnie brzmiący. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-158",
+    "text": "Który zapis pinyin odpowiada „好听”?",
+    "chinese": "好听",
+    "choices": [
+      "hǎo tīng",
+      "liǎng",
+      "zǎo",
+      "wèn tí"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      158
+    ],
+    "explanation": "好听 czytamy hǎo tīng; znaczenie: przyjemny dla ucha; ładnie brzmiący. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-159",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "们",
+    "pinyin": "men",
+    "choices": [
+      "sufiks liczby mnogiej (zaimków i niektórych rzeczowników)",
+      "iść do szkoły; uczęszczać do szkoły",
+      "ono/to (o rzeczy lub zwierzęciu)",
+      "pacjent; chory"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      159
+    ],
+    "explanation": "们 (men) — sufiks liczby mnogiej (zaimków i niektórych rzeczowników). Podręcznik, s. 12."
+  },
+  {
+    "id": "p-159",
+    "text": "Który zapis pinyin odpowiada „们”?",
+    "chinese": "们",
+    "choices": [
+      "men",
+      "zhè lǐ",
+      "jiā rén",
+      "nán"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      159
+    ],
+    "explanation": "们 czytamy men; znaczenie: sufiks liczby mnogiej (zaimków i niektórych rzeczowników). Podręcznik, s. 12."
+  },
+  {
+    "id": "v-160",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "吧",
+    "pinyin": "ba",
+    "choices": [
+      "partykuła sugestii/prośby",
+      "naprawdę; bardzo",
+      "one; je (rzeczy/zwierzęta)",
+      "kolacja"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      160
+    ],
+    "explanation": "吧 (ba) — partykuła sugestii/prośby. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-160",
+    "text": "Który zapis pinyin odpowiada „吧”?",
+    "chinese": "吧",
+    "choices": [
+      "ba",
+      "qù nián",
+      "bāo zi",
+      "qián bian"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      160
+    ],
+    "explanation": "吧 czytamy ba; znaczenie: partykuła sugestii/prośby. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-161",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "第",
+    "pinyin": "dì",
+    "choices": [
+      "prefiks liczebników porządkowych",
+      "znowu; ponownie; potem",
+      "w zeszłym roku",
+      "posiłek; ugotowany ryż; jedzenie"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      161
+    ],
+    "explanation": "第 (dì) — prefiks liczebników porządkowych. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-161",
+    "text": "Który zapis pinyin odpowiada „第”?",
+    "chinese": "第",
+    "choices": [
+      "dì",
+      "hòu",
+      "miàn bāo",
+      "fēn"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      161
+    ],
+    "explanation": "第 czytamy dì; znaczenie: prefiks liczebników porządkowych. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-162",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "你好",
+    "pinyin": "nǐ hǎo",
+    "choices": [
+      "cześć; dzień dobry",
+      "prefiks liczebników porządkowych",
+      "po; później; z tyłu",
+      "chleb; pieczywo"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      162
+    ],
+    "explanation": "你好 (nǐ hǎo) — cześć; dzień dobry. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-162",
+    "text": "Który zapis pinyin odpowiada „你好”?",
+    "chinese": "你好",
+    "choices": [
+      "nǐ hǎo",
+      "shòu huò yuán",
+      "zhōng xué shēng",
+      "tiān"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      162
+    ],
+    "explanation": "你好 czytamy nǐ hǎo; znaczenie: cześć; dzień dobry. Podręcznik, s. 12."
+  },
+  {
+    "id": "v-163",
+    "text": "Co oznacza to słowo lub wyrażenie?",
+    "chinese": "没事",
+    "pinyin": "méi shì",
+    "choices": [
+      "nic się nie stało; w porządku",
+      "wy; was",
+      "członkowie rodziny; bliscy",
+      "chorować; choroba"
+    ],
+    "correct": 0,
+    "difficulty": 1,
+    "category": "słownictwo",
+    "sourceIds": [
+      163
+    ],
+    "explanation": "没事 (méi shì) — nic się nie stało; w porządku. Podręcznik, s. 12."
+  },
+  {
+    "id": "p-163",
+    "text": "Który zapis pinyin odpowiada „没事”?",
+    "chinese": "没事",
+    "choices": [
+      "méi shì",
+      "shì",
+      "wài bian",
+      "chàng"
+    ],
+    "correct": 0,
+    "difficulty": 2,
+    "category": "pinyin",
+    "sourceIds": [
+      163
+    ],
+    "explanation": "没事 czytamy méi shì; znaczenie: nic się nie stało; w porządku. Podręcznik, s. 12."
+  },
+  {
+    "id": "c-1",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Wybierz słowo oznaczające „starsza siostra”.",
+    "chinese": "___、哥哥、妹妹、弟弟。",
+    "choices": [
+      "姐姐",
+      "女士",
+      "家人",
+      "病人"
+    ],
+    "correct": 0,
+    "explanation": "姐姐 to starsza siostra.",
+    "sourceIds": [
+      39,
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": "c-2",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Makaron jest smaczny”.",
+    "chinese": "面条儿___。",
+    "choices": [
+      "好吃",
+      "好听",
+      "好看",
+      "忙"
+    ],
+    "correct": 0,
+    "explanation": "好吃 opisuje smak jedzenia.",
+    "sourceIds": [
+      54,
+      149
+    ]
+  },
+  {
+    "id": "c-3",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Piosenka jest przyjemna dla ucha”.",
+    "chinese": "歌___。",
+    "choices": [
+      "好听",
+      "好吃",
+      "便宜",
+      "忙"
+    ],
+    "correct": 0,
+    "explanation": "好听 odnosi się do tego, co dobrze brzmi.",
+    "sourceIds": [
+      62,
+      158
+    ]
+  },
+  {
+    "id": "c-4",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Starszy brat prowadzi samochód”.",
+    "chinese": "哥哥___。",
+    "choices": [
+      "开车",
+      "好吃",
+      "便宜",
+      "好看"
+    ],
+    "correct": 0,
+    "explanation": "开车 oznacza prowadzić samochód.",
+    "sourceIds": [
+      40,
+      126
+    ]
+  },
+  {
+    "id": "c-5",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Młodsza siostra gotuje”.",
+    "chinese": "妹妹___。",
+    "choices": [
+      "做饭",
+      "好听",
+      "贵",
+      "新"
+    ],
+    "correct": 0,
+    "explanation": "做饭 oznacza przygotowywać posiłek.",
+    "sourceIds": [
+      41,
+      113
+    ]
+  },
+  {
+    "id": "c-6",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "姐姐上班。",
+    "choices": [
+      "Starsza siostra pracuje.",
+      "Starsza siostra śpi.",
+      "Młodsza siostra pracuje.",
+      "Starszy brat pracuje."
+    ],
+    "correct": 0,
+    "explanation": "姐姐 to starsza siostra, a 上班 — pracować.",
+    "sourceIds": [
+      39,
+      118
+    ]
+  },
+  {
+    "id": "c-7",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "弟弟起床。",
+    "choices": [
+      "Młodszy brat wstaje z łóżka.",
+      "Starszy brat wstaje.",
+      "Młodszy brat śpi.",
+      "Starsza siostra odpoczywa."
+    ],
+    "correct": 0,
+    "explanation": "弟弟 oznacza młodszego brata; 起床 — wstawać.",
+    "sourceIds": [
+      42,
+      128
+    ]
+  },
+  {
+    "id": "c-8",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "孩子上学。",
+    "choices": [
+      "Dziecko chodzi do szkoły.",
+      "Dziecko kończy pracę.",
+      "Dziecko gotuje.",
+      "Dziecko śpi."
+    ],
+    "correct": 0,
+    "explanation": "上学 oznacza chodzić do szkoły.",
+    "sourceIds": [
+      43,
+      139
+    ]
+  },
+  {
+    "id": "c-9",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "家人休息。",
+    "choices": [
+      "Bliscy odpoczywają.",
+      "Bliscy pracują.",
+      "Bliscy gotują.",
+      "Bliscy śpiewają."
+    ],
+    "correct": 0,
+    "explanation": "家人 to bliscy; 休息 — odpoczywać.",
+    "sourceIds": [
+      45,
+      112
+    ]
+  },
+  {
+    "id": "c-10",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "病人看病。",
+    "choices": [
+      "Pacjent idzie do lekarza.",
+      "Pacjent śpiewa.",
+      "Pacjent prowadzi samochód.",
+      "Pacjent sprzedaje."
+    ],
+    "correct": 0,
+    "explanation": "看病 to iść do lekarza lub leczyć się.",
+    "sourceIds": [
+      46,
+      135
+    ]
+  },
+  {
+    "id": "c-11",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "没有牛奶。",
+    "choices": [
+      "Nie ma mleka.",
+      "Mleko jest tanie.",
+      "Mleko jest drogie.",
+      "Mleko jest smaczne."
+    ],
+    "correct": 0,
+    "explanation": "没有 oznacza nie ma.",
+    "sourceIds": [
+      111,
+      52
+    ]
+  },
+  {
+    "id": "c-12",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "没有时间。",
+    "choices": [
+      "Nie ma czasu.",
+      "Jest późno.",
+      "Jest rano.",
+      "W przyszłym roku."
+    ],
+    "correct": 0,
+    "explanation": "时间 to czas; 没有 — nie ma.",
+    "sourceIds": [
+      111,
+      33
+    ]
+  },
+  {
+    "id": "c-13",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Telefon komórkowy jest drogi”.",
+    "chinese": "手机___。",
+    "choices": [
+      "贵",
+      "好吃",
+      "好听",
+      "上课"
+    ],
+    "correct": 0,
+    "explanation": "贵 oznacza drogi.",
+    "sourceIds": [
+      50,
+      151
+    ]
+  },
+  {
+    "id": "c-14",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Chleb jest tani”.",
+    "chinese": "面包___。",
+    "choices": [
+      "便宜",
+      "好听",
+      "起床",
+      "下班"
+    ],
+    "correct": 0,
+    "explanation": "便宜 oznacza tani.",
+    "sourceIds": [
+      67,
+      150
+    ]
+  },
+  {
+    "id": "c-15",
+    "difficulty": 2,
+    "category": "komunikacja",
+    "text": "Jak uprzejmie rozpocząć pytanie?",
+    "chinese": "",
+    "choices": [
+      "请问",
+      "没事",
+      "下班",
+      "晚饭"
+    ],
+    "correct": 0,
+    "explanation": "请问 to uprzejme „przepraszam, czy mogę zapytać…”.",
+    "sourceIds": [
+      110,
+      163,
+      114,
+      53
+    ]
+  },
+  {
+    "id": "c-16",
+    "difficulty": 2,
+    "category": "komunikacja",
+    "text": "Jak przywitać drugą osobę?",
+    "chinese": "",
+    "choices": [
+      "你好",
+      "没事",
+      "问题",
+      "晚上"
+    ],
+    "correct": 0,
+    "explanation": "你好 oznacza cześć lub dzień dobry.",
+    "sourceIds": [
+      162,
+      163,
+      65,
+      30
+    ]
+  },
+  {
+    "id": "c-17",
+    "difficulty": 2,
+    "category": "komunikacja",
+    "text": "Ktoś przeprasza. Jak odpowiedzieć „Nic się nie stało”?",
+    "chinese": "",
+    "choices": [
+      "没事",
+      "你好",
+      "请问",
+      "不要"
+    ],
+    "correct": 0,
+    "explanation": "没事 oznacza nic się nie stało; w porządku.",
+    "sourceIds": [
+      163,
+      162,
+      110,
+      156
+    ]
+  },
+  {
+    "id": "c-18",
+    "difficulty": 2,
+    "category": "gramatyka",
+    "text": "Który element tworzy liczbę mnogą w 你们?",
+    "chinese": "",
+    "choices": [
+      "们",
+      "第",
+      "吧",
+      "元"
+    ],
+    "correct": 0,
+    "explanation": "们 jest sufiksem liczby mnogiej.",
+    "sourceIds": [
+      6,
+      159,
+      161,
+      160,
+      103
+    ]
+  },
+  {
+    "id": "c-19",
+    "difficulty": 2,
+    "category": "gramatyka",
+    "text": "Który element służy do tworzenia liczebników porządkowych?",
+    "chinese": "",
+    "choices": [
+      "第",
+      "们",
+      "吧",
+      "杯"
+    ],
+    "correct": 0,
+    "explanation": "第 jest prefiksem liczebników porządkowych.",
+    "sourceIds": [
+      161,
+      159,
+      160,
+      106
+    ]
+  },
+  {
+    "id": "c-20",
+    "difficulty": 2,
+    "category": "gramatyka",
+    "text": "Który element łagodzi sugestię lub prośbę?",
+    "chinese": "",
+    "choices": [
+      "吧",
+      "第",
+      "们",
+      "斤"
+    ],
+    "correct": 0,
+    "explanation": "吧 to partykuła sugestii lub prośby.",
+    "sourceIds": [
+      160,
+      161,
+      159,
+      101
+    ]
+  },
+  {
+    "id": "c-21",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Wskaż klasyfikator napojów.",
+    "chinese": "",
+    "choices": [
+      "杯",
+      "件",
+      "只",
+      "口"
+    ],
+    "correct": 0,
+    "explanation": "杯 jest klasyfikatorem kubków lub szklanek napoju.",
+    "sourceIds": [
+      106,
+      102,
+      100,
+      96
+    ]
+  },
+  {
+    "id": "c-22",
+    "difficulty": 2,
+    "category": "uzupełnianie",
+    "text": "Wskaż klasyfikator ubrań.",
+    "chinese": "",
+    "choices": [
+      "件",
+      "杯",
+      "斤",
+      "分"
+    ],
+    "correct": 0,
+    "explanation": "件 jest klasyfikatorem m.in. ubrań.",
+    "sourceIds": [
+      102,
+      106,
+      101,
+      98
+    ]
+  },
+  {
+    "id": "c-23",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "大学生学中文。",
+    "choices": [
+      "Student uniwersytetu uczy się chińskiego.",
+      "Uczeń podstawówki uczy się chińskiego.",
+      "Student śpiewa.",
+      "Student idzie do lekarza."
+    ],
+    "correct": 0,
+    "explanation": "大学生 to student, 学 — uczyć się, 中文 — język chiński.",
+    "sourceIds": [
+      77,
+      127,
+      72
+    ]
+  },
+  {
+    "id": "c-24",
+    "difficulty": 2,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "大家下课。",
+    "choices": [
+      "Wszyscy kończą lekcję.",
+      "Wszyscy idą do pracy.",
+      "Wszyscy śpią.",
+      "Wszyscy gotują."
+    ],
+    "correct": 0,
+    "explanation": "大家 oznacza wszyscy, 下课 — kończyć lekcję.",
+    "sourceIds": [
+      4,
+      117
+    ]
+  },
+  {
+    "id": "c-25",
+    "difficulty": 3,
+    "category": "szyk zdania",
+    "text": "Wybierz zdanie: „Starszy brat właśnie gotuje”.",
+    "chinese": "",
+    "choices": [
+      "哥哥正在做饭。",
+      "正在哥哥做饭。",
+      "哥哥做饭正在。",
+      "做饭哥哥正在。"
+    ],
+    "correct": 0,
+    "explanation": "正在 poprzedza wykonywaną czynność.",
+    "sourceIds": [
+      40,
+      152,
+      113
+    ]
+  },
+  {
+    "id": "c-26",
+    "difficulty": 3,
+    "category": "szyk zdania",
+    "text": "Wybierz zdanie: „Starsza siostra też uczy się chińskiego”.",
+    "chinese": "",
+    "choices": [
+      "姐姐也学中文。",
+      "姐姐学也中文。",
+      "中文也姐姐学。",
+      "学中文姐姐也。"
+    ],
+    "correct": 0,
+    "explanation": "也 stoi przed czasownikiem 学.",
+    "sourceIds": [
+      39,
+      141,
+      127,
+      72
+    ]
+  },
+  {
+    "id": "c-27",
+    "difficulty": 3,
+    "category": "szyk zdania",
+    "text": "Wybierz zdanie: „Młodszy brat rano chodzi do szkoły”.",
+    "chinese": "",
+    "choices": [
+      "弟弟早上上学。",
+      "上学早上弟弟。",
+      "弟弟上学早上。",
+      "早上上学弟弟。"
+    ],
+    "correct": 0,
+    "explanation": "Określenie czasu 早上 stoi przed czasownikiem.",
+    "sourceIds": [
+      42,
+      29,
+      139
+    ]
+  },
+  {
+    "id": "c-28",
+    "difficulty": 3,
+    "category": "szyk zdania",
+    "text": "Wybierz zdanie: „Wszyscy mogą odpocząć”.",
+    "chinese": "",
+    "choices": [
+      "大家可以休息。",
+      "大家休息可以。",
+      "可以休息大家。",
+      "休息大家可以。"
+    ],
+    "correct": 0,
+    "explanation": "可以 stoi przed czasownikiem 休息.",
+    "sourceIds": [
+      4,
+      155,
+      112
+    ]
+  },
+  {
+    "id": "c-29",
+    "difficulty": 3,
+    "category": "szyk zdania",
+    "text": "Wybierz zdanie: „Młodsza siostra chce makaron”.",
+    "chinese": "",
+    "choices": [
+      "妹妹要面条儿。",
+      "妹妹面条儿要。",
+      "要妹妹面条儿。",
+      "面条儿要妹妹。"
+    ],
+    "correct": 0,
+    "explanation": "要 poprzedza rzecz, której ktoś chce.",
+    "sourceIds": [
+      41,
+      132,
+      54
+    ]
+  },
+  {
+    "id": "c-30",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "哥哥下班，姐姐上班。",
+    "choices": [
+      "Starszy brat kończy pracę, a starsza siostra zaczyna pracę.",
+      "Oboje kończą pracę.",
+      "Oboje zaczynają pracę.",
+      "Młodszy brat kończy pracę, a młodsza siostra zaczyna."
+    ],
+    "correct": 0,
+    "explanation": "下班 oznacza kończyć pracę, a 上班 — iść do pracy.",
+    "sourceIds": [
+      40,
+      114,
+      39,
+      118
+    ]
+  },
+  {
+    "id": "c-31",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "姐姐正在读书。",
+    "choices": [
+      "Starsza siostra właśnie czyta.",
+      "Starsza siostra chce gotować.",
+      "Młodsza siostra czyta.",
+      "Starszy brat właśnie czyta."
+    ],
+    "correct": 0,
+    "explanation": "正在 wskazuje trwającą czynność; 读书 — czytać książki.",
+    "sourceIds": [
+      39,
+      152,
+      120
+    ]
+  },
+  {
+    "id": "c-32",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "弟弟也要牛奶。",
+    "choices": [
+      "Młodszy brat też chce mleko.",
+      "Starszy brat też chce mleko.",
+      "Młodszy brat nie ma mleka.",
+      "Młodszy brat chce chleb."
+    ],
+    "correct": 0,
+    "explanation": "也 oznacza też, 要 — chcieć.",
+    "sourceIds": [
+      42,
+      141,
+      132,
+      52
+    ]
+  },
+  {
+    "id": "c-33",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "面包非常好吃。",
+    "choices": [
+      "Chleb jest bardzo smaczny.",
+      "Chleb jest bardzo drogi.",
+      "Chleb jest bardzo tani.",
+      "Mleko jest bardzo smaczne."
+    ],
+    "correct": 0,
+    "explanation": "非常 wzmacnia 好吃 — smaczny.",
+    "sourceIds": [
+      67,
+      148,
+      149
+    ]
+  },
+  {
+    "id": "c-34",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "手机有点儿贵。",
+    "choices": [
+      "Telefon komórkowy jest trochę drogi.",
+      "Telefon jest bardzo tani.",
+      "Telefon jest nowy.",
+      "Nie ma telefonu."
+    ],
+    "correct": 0,
+    "explanation": "有点儿 oznacza trochę; 贵 — drogi.",
+    "sourceIds": [
+      50,
+      153,
+      151
+    ]
+  },
+  {
+    "id": "c-35",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "大家晚上休息。",
+    "choices": [
+      "Wszyscy odpoczywają wieczorem.",
+      "Wszyscy odpoczywają rano.",
+      "Wszyscy pracują wieczorem.",
+      "Wszyscy uczą się wieczorem."
+    ],
+    "correct": 0,
+    "explanation": "晚上 oznacza wieczorem; 休息 — odpoczywać.",
+    "sourceIds": [
+      4,
+      30,
+      112
+    ]
+  },
+  {
+    "id": "c-36",
+    "difficulty": 3,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Uczniowie szkoły średniej właśnie mają lekcję”.",
+    "chinese": "中学生___上课。",
+    "choices": [
+      "正在",
+      "第",
+      "们",
+      "杯"
+    ],
+    "correct": 0,
+    "explanation": "正在 przed czasownikiem oznacza trwającą czynność.",
+    "sourceIds": [
+      78,
+      152,
+      116,
+      161,
+      159,
+      106
+    ]
+  },
+  {
+    "id": "c-37",
+    "difficulty": 3,
+    "category": "uzupełnianie",
+    "text": "Uzupełnij: „Starsza siostra też chce pieczywo”.",
+    "chinese": "姐姐___要面包。",
+    "choices": [
+      "也",
+      "第",
+      "杯",
+      "件"
+    ],
+    "correct": 0,
+    "explanation": "也 oznacza też i stoi przed 要.",
+    "sourceIds": [
+      39,
+      141,
+      132,
+      67,
+      161,
+      106,
+      102
+    ]
+  },
+  {
+    "id": "c-38",
+    "difficulty": 3,
+    "category": "komunikacja",
+    "text": "Zaproponuj odpoczynek całej grupie.",
+    "chinese": "",
+    "choices": [
+      "大家休息吧。",
+      "大家起床吧。",
+      "大家上班吧。",
+      "大家做饭吧。"
+    ],
+    "correct": 0,
+    "explanation": "吧 łagodzi propozycję; 休息 — odpoczywać.",
+    "sourceIds": [
+      4,
+      112,
+      160,
+      128,
+      118,
+      113
+    ]
+  },
+  {
+    "id": "c-39",
+    "difficulty": 3,
+    "category": "komunikacja",
+    "text": "Poproś grupę, aby nie mówiła.",
+    "chinese": "",
+    "choices": [
+      "大家不要说。",
+      "大家可以说。",
+      "大家也说。",
+      "大家正在说。"
+    ],
+    "correct": 0,
+    "explanation": "不要 przed czasownikiem wyraża zakaz.",
+    "sourceIds": [
+      4,
+      156,
+      131,
+      155,
+      141,
+      152
+    ]
+  },
+  {
+    "id": "c-40",
+    "difficulty": 3,
+    "category": "komunikacja",
+    "text": "Poproś grupę o chwilę odpoczynku.",
+    "chinese": "",
+    "choices": [
+      "大家休息一下。",
+      "大家开车。",
+      "大家上学。",
+      "大家起床。"
+    ],
+    "correct": 0,
+    "explanation": "一下 po czasowniku może oznaczać krótką chwilę.",
+    "sourceIds": [
+      4,
+      112,
+      105,
+      126,
+      139,
+      128
+    ]
+  },
+  {
+    "id": "c-41",
+    "difficulty": 3,
+    "category": "gramatyka",
+    "text": "Wybierz zdanie: „Młodszy brat nadal śpi”.",
+    "chinese": "",
+    "choices": [
+      "弟弟还睡。",
+      "弟弟睡还。",
+      "还睡弟弟。",
+      "睡弟弟还。"
+    ],
+    "correct": 0,
+    "explanation": "还 stoi przed czasownikiem i oznacza nadal.",
+    "sourceIds": [
+      42,
+      142,
+      129
+    ]
+  },
+  {
+    "id": "c-42",
+    "difficulty": 3,
+    "category": "gramatyka",
+    "text": "Wybierz zdanie: „Bliscy chcą odpocząć”.",
+    "chinese": "",
+    "choices": [
+      "家人要休息。",
+      "家人休息要。",
+      "休息要家人。",
+      "要休息家人。"
+    ],
+    "correct": 0,
+    "explanation": "要 poprzedza czasownik opisujący zamierzoną czynność.",
+    "sourceIds": [
+      45,
+      132,
+      112
+    ]
+  },
+  {
+    "id": "c-43",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "小学生也学中文。",
+    "choices": [
+      "Uczeń szkoły podstawowej też uczy się chińskiego.",
+      "Student uniwersytetu uczy się chińskiego.",
+      "Uczeń szkoły średniej czyta.",
+      "Uczeń podstawówki śpiewa."
+    ],
+    "correct": 0,
+    "explanation": "小学生 to uczeń podstawówki; 也 — też.",
+    "sourceIds": [
+      79,
+      141,
+      127,
+      72
+    ]
+  },
+  {
+    "id": "c-44",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "大家明年学中文。",
+    "choices": [
+      "Wszyscy w przyszłym roku będą uczyć się chińskiego.",
+      "Wszyscy w zeszłym roku rozpoczęli studia.",
+      "Wszyscy w tym roku kończą pracę.",
+      "Wszyscy jutro idą do szkoły."
+    ],
+    "correct": 0,
+    "explanation": "明年 — w przyszłym roku; 学中文 — uczyć się chińskiego.",
+    "sourceIds": [
+      4,
+      24,
+      127,
+      72
+    ]
+  },
+  {
+    "id": "c-45",
+    "difficulty": 3,
+    "category": "uzupełnianie",
+    "text": "Wybierz „bardzo”, aby opisać smak.",
+    "chinese": "饺子___好吃。",
+    "choices": [
+      "非常",
+      "第",
+      "们",
+      "杯"
+    ],
+    "correct": 0,
+    "explanation": "非常 to przysłówek bardzo.",
+    "sourceIds": [
+      55,
+      148,
+      149,
+      161,
+      159,
+      106
+    ]
+  },
+  {
+    "id": "c-46",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "哥哥可以开车。",
+    "choices": [
+      "Starszy brat może prowadzić samochód.",
+      "Starszy brat musi gotować.",
+      "Młodszy brat może prowadzić.",
+      "Starszy brat nie prowadzi."
+    ],
+    "correct": 0,
+    "explanation": "可以 — móc; 开车 — prowadzić samochód.",
+    "sourceIds": [
+      40,
+      155,
+      126
+    ]
+  },
+  {
+    "id": "c-47",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "姐姐早上做饭，晚上读书。",
+    "choices": [
+      "Starsza siostra rano gotuje, wieczorem czyta.",
+      "Starsza siostra rano czyta, wieczorem gotuje.",
+      "Młodsza siostra rano gotuje, wieczorem czyta.",
+      "Starsza siostra cały dzień śpi."
+    ],
+    "correct": 0,
+    "explanation": "早上 — rano; 晚上 — wieczorem.",
+    "sourceIds": [
+      39,
+      29,
+      113,
+      30,
+      120
+    ]
+  },
+  {
+    "id": "c-48",
+    "difficulty": 3,
+    "category": "rozumienie",
+    "text": "Co oznacza zdanie?",
+    "chinese": "大家不要开车。",
+    "choices": [
+      "Nie prowadźcie samochodu.",
+      "Wszyscy mogą prowadzić.",
+      "Wszyscy chcą prowadzić.",
+      "Wszyscy właśnie prowadzą."
+    ],
+    "correct": 0,
+    "explanation": "不要 wyraża zakaz; 大家 zwraca się do całej grupy.",
+    "sourceIds": [
+      4,
+      156,
+      126
+    ]
+  },
+  {
+    "id": "c-49",
+    "difficulty": 3,
+    "category": "komunikacja",
+    "text": "Zaproponuj grupie naukę chińskiego.",
+    "chinese": "",
+    "choices": [
+      "大家学中文吧。",
+      "大家做饭吧。",
+      "大家休息吧。",
+      "大家开车吧。"
+    ],
+    "correct": 0,
+    "explanation": "学中文 — uczyć się chińskiego; 吧 — propozycja.",
+    "sourceIds": [
+      4,
+      127,
+      72,
+      160,
+      113,
+      112,
+      126
+    ]
+  }
+]
